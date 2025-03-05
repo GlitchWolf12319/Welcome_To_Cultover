@@ -42,7 +42,7 @@ namespace Map
         [Tooltip("Node Visited or Attainable color")]
         public Color32 visitedColor = Color.white;
 //here
-
+        [Tooltip("Node Connected to node you can select colour")]
         public Color32 highlightedColor = Color.white;
         [Tooltip("Locked node color")]
         public Color32 lockedColor = Color.gray;
@@ -156,48 +156,65 @@ namespace Map
         }
 
         public void SetAttainableNodes()
+{
+    // Set all nodes as locked by default
+    foreach (MapNode node in MapNodes)
+        node.SetState(NodeStates.Locked);
+
+    if (mapManager.CurrentMap.path.Count == 0)
+    {
+        // No movement yet, highlight the first layer nodes
+        foreach (MapNode node in MapNodes.Where(n => n.Node.point.y == 0))
         {
-            // first set all the nodes as unattainable/locked:
-            foreach (MapNode node in MapNodes)
-                node.SetState(NodeStates.Locked);
-
-            if (mapManager.CurrentMap.path.Count == 0)
+            node.SetState(NodeStates.Attainable);
+            
+            // Highlight nodes connected to the first layer
+            foreach (Vector2Int connectedPoint in node.Node.outgoing)
             {
-                // we have not started traveling on this map yet, set entire first layer as attainable:
-                foreach (MapNode node in MapNodes.Where(n => n.Node.point.y == 0))
-                    node.SetState(NodeStates.Attainable);
-            }
-            else
-            {
-                // we have already started moving on this map, first highlight the path as visited:
-                foreach (Vector2Int point in mapManager.CurrentMap.path)
+                MapNode connectedNode = GetNode(connectedPoint);
+                if (connectedNode != null && connectedNode.State == NodeStates.Locked)
                 {
-                    MapNode mapNode = GetNode(point);
-                    if (mapNode != null)
-                        mapNode.SetState(NodeStates.Visited);
-                }
-
-                Vector2Int currentPoint = mapManager.CurrentMap.path[mapManager.CurrentMap.path.Count - 1];
-                Node currentNode = mapManager.CurrentMap.GetNode(currentPoint);
-
-                // set all the nodes that we can travel to as attainable:
-                foreach (Vector2Int point in currentNode.outgoing)
-                {
-                    MapNode mapNode = GetNode(point);
-                    if (mapNode != null)
-                        mapNode.SetState(NodeStates.Attainable);
-                // Change the color of nodes connected to attainable nodes
-                foreach (Vector2Int connectedPoint in mapNode.Node.outgoing)
-                {
-                    MapNode connectedNode = GetNode(connectedPoint);
-                    if (connectedNode != null && connectedNode.State != NodeStates.Visited)
-                    {
-                        connectedNode.SetState(NodeStates.Highlighted); // Custom state for visual distinction
-                    }
-                }
+                    connectedNode.SetState(NodeStates.Highlighted);
                 }
             }
         }
+    }
+    else
+    {
+        // Map has been partially explored, mark path nodes as visited
+        foreach (Vector2Int point in mapManager.CurrentMap.path)
+        {
+            MapNode mapNode = GetNode(point);
+            if (mapNode != null)
+                mapNode.SetState(NodeStates.Visited);
+        }
+
+        // Get the last node in the path
+        Vector2Int currentPoint = mapManager.CurrentMap.path[^1];
+        Node currentNode = mapManager.CurrentMap.GetNode(currentPoint);
+
+        // Mark all attainable nodes and highlight their connected nodes
+        foreach (Vector2Int point in currentNode.outgoing)
+        {
+            MapNode mapNode = GetNode(point);
+            if (mapNode != null)
+            {
+                mapNode.SetState(NodeStates.Attainable);
+
+                // Highlight nodes connected to attainable nodes
+                foreach (Vector2Int connectedPoint in mapNode.Node.outgoing)
+                {
+                    MapNode connectedNode = GetNode(connectedPoint);
+                    if (connectedNode != null && connectedNode.State == NodeStates.Locked)
+                    {
+                        connectedNode.SetState(NodeStates.Highlighted);
+                    }
+                }
+            }
+        }
+    }
+}
+
             
             
 

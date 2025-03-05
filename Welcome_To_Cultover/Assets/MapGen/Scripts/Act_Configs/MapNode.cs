@@ -132,6 +132,7 @@ namespace Map
             }
         }
 
+        // This is where you hover over the nodes and the nodes become bigger  
         public void OnPointerEnter(PointerEventData data)
         {
             if (sr != null)
@@ -140,6 +141,7 @@ namespace Map
                 sr.transform.DOScale(initialScale * HoverScaleFactor, 0.3f);
                 
             }
+          
 
             if (image != null)
             {

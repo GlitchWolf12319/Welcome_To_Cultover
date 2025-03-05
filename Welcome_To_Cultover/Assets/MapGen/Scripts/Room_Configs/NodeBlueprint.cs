@@ -11,7 +11,6 @@ namespace Map
         Store,
         Boss,
         Mystery,
-
         Wave,
     }
 }
