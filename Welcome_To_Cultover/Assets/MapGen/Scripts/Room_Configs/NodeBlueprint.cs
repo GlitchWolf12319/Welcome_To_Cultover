@@ -7,10 +7,12 @@ namespace Map
         MinorEnemy,
         EliteEnemy,
         RestSite,
-        Treasure,
+        SacrficeRoom,
         Store,
         Boss,
-        Mystery
+        Mystery,
+
+        Wave,
     }
 }
 

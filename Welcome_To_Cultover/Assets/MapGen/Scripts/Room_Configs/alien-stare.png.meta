@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      alien-stare_0: 4182979107773110095
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

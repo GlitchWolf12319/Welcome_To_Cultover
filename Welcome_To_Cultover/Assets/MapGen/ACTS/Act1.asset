@@ -16,20 +16,20 @@ MonoBehaviour:
   - {fileID: 11400000, guid: a37421b278e2d5d40bf5ccc341dcece7, type: 2}
   - {fileID: 11400000, guid: f1d15aa252c2f99468b0d96b4d1b9ac2, type: 2}
   - {fileID: 11400000, guid: 17d8ddec87c9f2145a10303b2d427918, type: 2}
-  - {fileID: 11400000, guid: 9ff8836e9e17a6349aa0a0236b6f76c2, type: 2}
+  - {fileID: 11400000, guid: 83c62ab732f2eb2478b77d04c053f8cb, type: 2}
   - {fileID: 11400000, guid: 36654e330fb3ef24bbea6ed854ee6bbb, type: 2}
   - {fileID: 11400000, guid: 08f19a0cf834c5b46af5afe42a493c8c, type: 2}
-  - {fileID: 11400000, guid: 770d24d31bf09224a973120f32b4e7d8, type: 2}
+  - {fileID: 11400000, guid: 5138897ebba625f468b0a866c651f130, type: 2}
   - {fileID: 11400000, guid: c9a017dc32c1aec4c84501ffa9503ab9, type: 2}
   - {fileID: 11400000, guid: f742ed6ff25ac534399186bf7d1e6347, type: 2}
-  - {fileID: 11400000, guid: c7032cb9fe7658f43a2164ce32ea5b80, type: 2}
-  randomNodes: 0600000004000000030000000000000002000000
+  - {fileID: 11400000, guid: 24735de5cf63a97428b4caeeb13b9f05, type: 2}
+  randomNodes: 060000000400000003000000000000000200000007000000
   numOfPreBossNodes:
     min: 4
-    max: 5
+    max: 4
   numOfStartingNodes:
-    min: 2
-    max: 3
+    min: 3
+    max: 4
   extraPaths: 5
   layers:
   - nodeType: 0

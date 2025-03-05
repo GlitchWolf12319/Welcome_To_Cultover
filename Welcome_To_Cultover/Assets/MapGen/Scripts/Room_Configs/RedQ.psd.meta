@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b294fe162b9b1d043a45d455e04961f1
+guid: ae6e7a75b24625e4d931a15c10f0516e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8067978381563143127
-    second: barbed-wire_0
+      213: -3355087347930263915
+    second: RedQ_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: barbed-wire_0
+      name: RedQ_0
       rect:
         serializedVersion: 2
-        x: 20
-        y: 13
-        width: 471
-        height: 477
+        x: 11
+        y: 10
+        width: 619
+        height: 619
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 92cd56f6868c80090800000000000000
-      internalID: -8067978381563143127
+      spriteID: 59e853445d55071d0800000000000000
+      internalID: -3355087347930263915
       vertices: []
       indices: 
       edges: []
@@ -147,8 +147,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      barbed-wire_0: -8067978381563143127
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

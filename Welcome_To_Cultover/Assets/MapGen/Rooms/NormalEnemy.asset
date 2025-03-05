@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bdd9c7d8b1724034989487d4d2ccb7cf, type: 3}
-  m_Name: Monster
+  m_Name: NormalEnemy
   m_EditorClassIdentifier: 
-  sprite: {fileID: 21300000, guid: b5f5839c0c638184d90210de34685b87, type: 3}
+  sprite: {fileID: -3170747201195620603, guid: 3c272eb1be4b5b5419873294bfa70eed, type: 3}
   nodeType: 0

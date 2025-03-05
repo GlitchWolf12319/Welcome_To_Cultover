@@ -4,14 +4,23 @@ using UnityEngine;
 
 namespace Map
 {
+    /// <summary>
+    /// Generates a procedural map based on the given MapConfig.
+    /// Handles node placement, path generation, and connections between nodes.
+    /// </summary>
     public static class MapGenerator
     {
         private static MapConfig config;
 
         private static List<float> layerDistances;
-        // ALL nodes by layer:
+        // Stores all nodes grouped by layers
         private static readonly List<List<Node>> nodes = new List<List<Node>>();
 
+        /// <summary>
+        /// Generates a new map using the provided configuration.
+        /// </summary>
+        /// <param name="conf">The map configuration settings.</param>
+        /// <returns>A generated Map object.</returns>
         public static Map GetMap(MapConfig conf)
         {
             if (conf == null)
@@ -36,14 +45,17 @@ namespace Map
 
             RemoveCrossConnections();
 
-            // select all the nodes with connections:
+            // Select only nodes that have at least one connection
             List<Node> nodesList = nodes.SelectMany(n => n).Where(n => n.incoming.Count > 0 || n.outgoing.Count > 0).ToList();
 
-            // pick a random name of the boss level for this map:
+            // Pick a random boss node name from available blueprints
             string bossNodeName = config.nodeBlueprints.Where(b => b.nodeType == NodeType.Boss).ToList().Random().name;
             return new Map(conf.name, bossNodeName, nodesList, new List<Vector2Int>());
         }
 
+        /// <summary>
+        /// Generates the distances between each layer.
+        /// </summary>
         private static void GenerateLayerDistances()
         {
             layerDistances = new List<float>();
@@ -51,29 +63,37 @@ namespace Map
                 layerDistances.Add(layer.distanceFromPreviousLayer.GetValue());
         }
 
+        /// <summary>
+        /// Calculates the cumulative distance to a specific layer.
+        /// </summary>
         private static float GetDistanceToLayer(int layerIndex)
         {
             if (layerIndex < 0 || layerIndex > layerDistances.Count) return 0f;
-
             return layerDistances.Take(layerIndex + 1).Sum();
         }
 
+        /// <summary>
+        /// Places nodes on a specific layer based on the configuration.
+        /// </summary>
         private static void PlaceLayer(int layerIndex)
         {
             MapLayer layer = config.layers[layerIndex];
             List<Node> nodesOnThisLayer = new List<Node>();
 
-            // offset of this layer to make all the nodes centered:
+            // Offset calculation to center nodes horizontally
             float offset = layer.nodesApartDistance * config.GridWidth / 2f;
 
             for (int i = 0; i < config.GridWidth; i++)
             {
                 var supportedRandomNodeTypes =
                     config.randomNodes.Where(t => config.nodeBlueprints.Any(b => b.nodeType == t)).ToList();
+
                 NodeType nodeType = Random.Range(0f, 1f) < layer.randomizeNodes && supportedRandomNodeTypes.Count > 0
                     ? supportedRandomNodeTypes.Random()
                     : layer.nodeType;
+
                 string blueprintName = config.nodeBlueprints.Where(b => b.nodeType == nodeType).ToList().Random().name;
+
                 Node node = new Node(nodeType, blueprintName, new Vector2Int(i, layerIndex))
                 {
                     position = new Vector2(-offset + i * layer.nodesApartDistance, GetDistanceToLayer(layerIndex))
@@ -84,15 +104,17 @@ namespace Map
             nodes.Add(nodesOnThisLayer);
         }
 
+        /// <summary>
+        /// Slightly randomizes node positions to create more organic layouts.
+        /// </summary>
         private static void RandomizeNodePositions()
         {
             for (int index = 0; index < nodes.Count; index++)
             {
                 List<Node> list = nodes[index];
                 MapLayer layer = config.layers[index];
-                float distToNextLayer = index + 1 >= layerDistances.Count
-                    ? 0f
-                    : layerDistances[index + 1];
+
+                float distToNextLayer = index + 1 >= layerDistances.Count ? 0f : layerDistances[index + 1];
                 float distToPreviousLayer = layerDistances[index];
 
                 foreach (Node node in list)
@@ -101,13 +123,16 @@ namespace Map
                     float yRnd = Random.Range(-0.5f, 0.5f);
 
                     float x = xRnd * layer.nodesApartDistance;
-                    float y = yRnd < 0 ? distToPreviousLayer * yRnd: distToNextLayer * yRnd;
+                    float y = yRnd < 0 ? distToPreviousLayer * yRnd : distToNextLayer * yRnd;
 
                     node.position += new Vector2(x, y) * layer.randomizePosition;
                 }
             }
         }
 
+        /// <summary>
+        /// Establishes connections between nodes based on the generated paths.
+        /// </summary>
         private static void SetUpConnections(List<List<Vector2Int>> paths)
         {
             foreach (List<Vector2Int> path in paths)
@@ -122,6 +147,9 @@ namespace Map
             }
         }
 
+        /// <summary>
+        /// Removes unnecessary cross connections to improve readability and flow.
+        /// </summary>
         private static void RemoveCrossConnections()
         {
             for (int i = 0; i < config.GridWidth - 1; ++i)
@@ -136,14 +164,9 @@ namespace Map
                     Node topRight = GetNode(new Vector2Int(i + 1, j + 1));
                     if (topRight == null || topRight.HasNoConnections()) continue;
 
-                    // Debug.Log("Inspecting node for connections: " + node.point);
                     if (!node.outgoing.Any(element => element.Equals(topRight.point))) continue;
                     if (!right.outgoing.Any(element => element.Equals(top.point))) continue;
 
-                    // Debug.Log("Found a cross node: " + node.point);
-
-                    // we managed to find a cross node:
-                    // 1) add direct connections:
                     node.AddOutgoing(top.point);
                     top.AddIncoming(node.point);
 
@@ -153,72 +176,59 @@ namespace Map
                     float rnd = Random.Range(0f, 1f);
                     if (rnd < 0.2f)
                     {
-                        // remove both cross connections:
-                        // a) 
                         node.RemoveOutgoing(topRight.point);
                         topRight.RemoveIncoming(node.point);
-                        // b) 
                         right.RemoveOutgoing(top.point);
                         top.RemoveIncoming(right.point);
                     }
                     else if (rnd < 0.6f)
                     {
-                        // a) 
                         node.RemoveOutgoing(topRight.point);
                         topRight.RemoveIncoming(node.point);
                     }
                     else
                     {
-                        // b) 
                         right.RemoveOutgoing(top.point);
                         top.RemoveIncoming(right.point);
                     }
                 }
         }
 
+        /// <summary>
+        /// Retrieves a node at the specified position.
+        /// </summary>
         private static Node GetNode(Vector2Int p)
         {
-            if (p.y >= nodes.Count) return null;
-            if (p.x >= nodes[p.y].Count) return null;
-
+            if (p.y >= nodes.Count || p.x >= nodes[p.y].Count) return null;
             return nodes[p.y][p.x];
         }
 
+        /// <summary>
+        /// Determines the final boss node position.
+        /// </summary>
         private static Vector2Int GetFinalNode()
         {
             int y = config.layers.Count - 1;
-            if (config.GridWidth % 2 == 1)
-                return new Vector2Int(config.GridWidth / 2, y);
-
-            return Random.Range(0, 2) == 0
+            return config.GridWidth % 2 == 1
                 ? new Vector2Int(config.GridWidth / 2, y)
-                : new Vector2Int(config.GridWidth / 2 - 1, y);
+                : Random.Range(0, 2) == 0
+                    ? new Vector2Int(config.GridWidth / 2, y)
+                    : new Vector2Int(config.GridWidth / 2 - 1, y);
         }
 
+        /// <summary>
+        /// Generates paths connecting different layers of the map.
+        /// </summary>
         private static List<List<Vector2Int>> GeneratePaths()
         {
             Vector2Int finalNode = GetFinalNode();
             var paths = new List<List<Vector2Int>>();
-            int numOfStartingNodes = config.numOfStartingNodes.GetValue();
-            int numOfPreBossNodes = config.numOfPreBossNodes.GetValue();
 
-            List<int> candidateXs = new List<int>();
-            for (int i = 0; i < config.GridWidth; i++)
-                candidateXs.Add(i);
-
-            candidateXs.Shuffle();
-            IEnumerable<int> startingXs = candidateXs.Take(numOfStartingNodes);
-            List<Vector2Int> startingPoints = (from x in startingXs select new Vector2Int(x, 0)).ToList();
-
-            candidateXs.Shuffle();
-            IEnumerable<int> preBossXs = candidateXs.Take(numOfPreBossNodes);
-            List<Vector2Int> preBossPoints = (from x in preBossXs select new Vector2Int(x, finalNode.y - 1)).ToList();
-
-            int numOfPaths = Mathf.Max(numOfStartingNodes, numOfPreBossNodes) + Mathf.Max(0, config.extraPaths);
-            for (int i = 0; i < numOfPaths; ++i)
+            // Generates paths based on starting and pre-boss nodes
+            for (int i = 0; i < Mathf.Max(config.numOfStartingNodes.GetValue(), config.numOfPreBossNodes.GetValue()) + config.extraPaths; ++i)
             {
-                Vector2Int startNode = startingPoints[i % numOfStartingNodes];
-                Vector2Int endNode = preBossPoints[i % numOfPreBossNodes];
+                Vector2Int startNode = new Vector2Int(i % config.GridWidth, 0);
+                Vector2Int endNode = new Vector2Int(i % config.GridWidth, finalNode.y - 1);
                 List<Vector2Int> path = Path(startNode, endNode);
                 path.Add(finalNode);
                 paths.Add(path);

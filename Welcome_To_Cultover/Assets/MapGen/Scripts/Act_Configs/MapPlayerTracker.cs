@@ -74,7 +74,9 @@ namespace Map
                     break;
                 case NodeType.RestSite:
                     break;
-                case NodeType.Treasure:
+                case NodeType.Wave:
+                    break;
+                case NodeType.SacrficeRoom:
                     break;
                 case NodeType.Store:
                     break;

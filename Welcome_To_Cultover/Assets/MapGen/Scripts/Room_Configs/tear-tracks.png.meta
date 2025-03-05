@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tear-tracks_0: -6260410195692742437
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

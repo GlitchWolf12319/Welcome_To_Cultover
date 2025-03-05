@@ -393,7 +393,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.24350303, g: 0.2662078, b: 0.3018868, a: 0}
+  m_BackGroundColor: {r: 0.06372374, g: 0.06812923, b: 0.0754717, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -418,7 +418,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 7
+  orthographic size: 5
   m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
@@ -751,12 +751,16 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 0}
     - target: {fileID: 4565151158656524391, guid: 163f81668bbe1334fa5d044dd96a3f59, type: 3}
+      propertyPath: orientation
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4565151158656524391, guid: 163f81668bbe1334fa5d044dd96a3f59, type: 3}
       propertyPath: linePointsCount
       value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4565151158656524391, guid: 163f81668bbe1334fa5d044dd96a3f59, type: 3}
       propertyPath: lockedColor.rgba
-      value: 4281677109
+      value: 4278190080
       objectReference: {fileID: 0}
     - target: {fileID: 4565151158656524391, guid: 163f81668bbe1334fa5d044dd96a3f59, type: 3}
       propertyPath: orientationOffset
@@ -764,7 +768,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4565151158656524391, guid: 163f81668bbe1334fa5d044dd96a3f59, type: 3}
       propertyPath: lineLockedColor.rgba
-      value: 1579032
+      value: 4278190080
       objectReference: {fileID: 0}
     - target: {fileID: 4565151158656524391, guid: 163f81668bbe1334fa5d044dd96a3f59, type: 3}
       propertyPath: lineVisitedColor.rgba

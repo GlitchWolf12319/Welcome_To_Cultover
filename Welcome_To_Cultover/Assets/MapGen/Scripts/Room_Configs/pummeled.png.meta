@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pummeled_0: 5085381085731130776
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

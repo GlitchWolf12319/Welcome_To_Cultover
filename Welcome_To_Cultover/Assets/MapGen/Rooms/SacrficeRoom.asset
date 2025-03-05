@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bdd9c7d8b1724034989487d4d2ccb7cf, type: 3}
-  m_Name: InjuredBoss
+  m_Name: SacrficeRoom
   m_EditorClassIdentifier: 
-  sprite: {fileID: 8399928852994808980, guid: c09739bd2e444234196fd163391c297a, type: 3}
-  nodeType: 5
+  sprite: {fileID: -3094987863980807408, guid: 965300cff0592df488ce0c28333a1bb2, type: 3}
+  nodeType: 3

@@ -123,6 +123,7 @@ namespace Map
             {
                 sr.transform.DOKill();
                 sr.transform.DOScale(initialScale * HoverScaleFactor, 0.3f);
+                
             }
 
             if (image != null)
