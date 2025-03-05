@@ -20,7 +20,7 @@ namespace Map
 
         [Tooltip(
             "List of all the MapConfig scriptable objects from the Assets folder that might be used to construct maps. " +
-            "Similar to Acts in Slay The Spire (define general layout, types of bosses.)")]
+            "ACTS (define general layout, types of bosses.)")]
         public List<MapConfig> allMapConfigs;
         public GameObject nodePrefab;
         [Tooltip("Offset of the start/end nodes of the map from the edges of the screen")]
@@ -41,6 +41,9 @@ namespace Map
         [Header("Colors")]
         [Tooltip("Node Visited or Attainable color")]
         public Color32 visitedColor = Color.white;
+//here
+
+        public Color32 highlightedColor = Color.white;
         [Tooltip("Locked node color")]
         public Color32 lockedColor = Color.gray;
         [Tooltip("Visited or available path color")]
@@ -183,9 +186,20 @@ namespace Map
                     MapNode mapNode = GetNode(point);
                     if (mapNode != null)
                         mapNode.SetState(NodeStates.Attainable);
+                // Change the color of nodes connected to attainable nodes
+                foreach (Vector2Int connectedPoint in mapNode.Node.outgoing)
+                {
+                    MapNode connectedNode = GetNode(connectedPoint);
+                    if (connectedNode != null && connectedNode.State != NodeStates.Visited)
+                    {
+                        connectedNode.SetState(NodeStates.Highlighted); // Custom state for visual distinction
+                    }
+                }
                 }
             }
         }
+            
+            
 
         public virtual void SetLineColors()
         {

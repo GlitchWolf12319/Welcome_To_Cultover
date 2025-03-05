@@ -443,7 +443,7 @@ Transform:
   m_GameObject: {fileID: 1109360910}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalPosition: {x: 0, y: -0.05, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -760,7 +760,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4565151158656524391, guid: 163f81668bbe1334fa5d044dd96a3f59, type: 3}
       propertyPath: lockedColor.rgba
-      value: 4278190080
+      value: 2130706432
       objectReference: {fileID: 0}
     - target: {fileID: 4565151158656524391, guid: 163f81668bbe1334fa5d044dd96a3f59, type: 3}
       propertyPath: orientationOffset
@@ -768,7 +768,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4565151158656524391, guid: 163f81668bbe1334fa5d044dd96a3f59, type: 3}
       propertyPath: lineLockedColor.rgba
-      value: 4278190080
+      value: 2214592512
+      objectReference: {fileID: 0}
+    - target: {fileID: 4565151158656524391, guid: 163f81668bbe1334fa5d044dd96a3f59, type: 3}
+      propertyPath: highlightedColor.rgba
+      value: 4282598211
       objectReference: {fileID: 0}
     - target: {fileID: 4565151158656524391, guid: 163f81668bbe1334fa5d044dd96a3f59, type: 3}
       propertyPath: lineVisitedColor.rgba
@@ -780,15 +784,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6708724660730587111, guid: 163f81668bbe1334fa5d044dd96a3f59, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 347.4
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6708724660730587111, guid: 163f81668bbe1334fa5d044dd96a3f59, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 228.7
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6708724660730587111, guid: 163f81668bbe1334fa5d044dd96a3f59, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.178647
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6708724660730587111, guid: 163f81668bbe1334fa5d044dd96a3f59, type: 3}
       propertyPath: m_LocalRotation.w

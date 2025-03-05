@@ -10,7 +10,8 @@ namespace Map
     {
         Locked,
         Visited,
-        Attainable
+        Attainable,
+        Highlighted
     }
 }
 
@@ -26,6 +27,8 @@ namespace Map
 
         public Node Node { get; private set; }
         public NodeBlueprint Blueprint { get; private set; }
+        public NodeStates State { get; private set; }
+
 
         private float initialScale;
         private const float HoverScaleFactor = 1.2f;
@@ -96,7 +99,6 @@ namespace Map
                     if (circleImage != null) circleImage.gameObject.SetActive(true);
                     break;
                 case NodeStates.Attainable:
-                    // start pulsating from visited to locked color:
                     if (sr != null)
                     {
                         sr.color = MapView.Instance.lockedColor;
@@ -111,6 +113,19 @@ namespace Map
                         image.DOColor(MapView.Instance.visitedColor, 0.5f).SetLoops(-1, LoopType.Yoyo);
                     }
                     
+                    break;
+                case NodeStates.Highlighted:
+                    if (sr != null)
+                    {
+                        sr.DOKill();
+                        sr.color = MapView.Instance.highlightedColor;
+                    }
+                    
+                    if (image != null)
+                    {
+                        image.DOKill();
+                        image.color = MapView.Instance.highlightedColor;
+                    }
                     break;
                 default:
                     throw new ArgumentOutOfRangeException(nameof(state), state, null);
@@ -157,7 +172,6 @@ namespace Map
         {
             if (Time.time - mouseDownTime < MaxClickDuration)
             {
-                // user clicked on this node:
                 MapPlayerTracker.Instance.SelectNode(this);
             }
         }

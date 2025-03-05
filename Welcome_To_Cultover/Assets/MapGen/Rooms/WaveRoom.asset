@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: WaveRoom
   m_EditorClassIdentifier: 
   sprite: {fileID: -8791487153832178631, guid: a8fc7f0e051814d43986c544da16e8ce, type: 3}
-  nodeType: 0
+  nodeType: 7
