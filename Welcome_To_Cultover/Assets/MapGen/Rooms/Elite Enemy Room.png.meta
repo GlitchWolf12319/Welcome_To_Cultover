@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Elite Enemy Room_0: -1060091193815210827
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

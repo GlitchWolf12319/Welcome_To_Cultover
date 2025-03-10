@@ -393,7 +393,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.06372374, g: 0.06812923, b: 0.0754717, a: 0}
+  m_BackGroundColor: {r: 0.13207549, g: 0.091580644, b: 0.10407658, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -734,6 +734,52 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1304657285}
   m_CullTransparentMesh: 1
+--- !u!1 &1823049514
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1823049516}
+  - component: {fileID: 1823049515}
+  m_Layer: 0
+  m_Name: 'MouseCursorScript '
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1823049515
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1823049514}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36c12d35c5c00b142835f0b38690ede9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mouseCursor: {fileID: 2800000, guid: 12f7e7f182dd76348b143b6425365b49, type: 3}
+  ClickedCursor: {fileID: 2800000, guid: d036402d5c52db545887b5530452b0b4, type: 3}
+--- !u!4 &1823049516
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1823049514}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.3330487, y: -1.1382794, z: 4.103428}
+  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &4645667779741719343
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -835,3 +881,4 @@ SceneRoots:
   - {fileID: 4645667779741719343}
   - {fileID: 177174323}
   - {fileID: 580565472}
+  - {fileID: 1823049516}
