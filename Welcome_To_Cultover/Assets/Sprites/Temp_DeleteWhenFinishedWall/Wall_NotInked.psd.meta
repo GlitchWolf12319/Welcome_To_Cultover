@@ -1,0 +1,6435 @@
+fileFormatVersion: 2
+guid: 4538d5b5bc5cedd468353aa6acd635f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1162486719118446148
+    second: Wall_NotInked_0
+  - first:
+      213: -7148734039000217943
+    second: Wall_NotInked_1
+  - first:
+      213: -1661588653790687079
+    second: Wall_NotInked_2
+  - first:
+      213: 8018806442175020396
+    second: Wall_NotInked_3
+  - first:
+      213: 3489703636496825976
+    second: Wall_NotInked_4
+  - first:
+      213: 7721034198225301537
+    second: Wall_NotInked_5
+  - first:
+      213: 762126458582952257
+    second: Wall_NotInked_6
+  - first:
+      213: -8608233962706413661
+    second: Wall_NotInked_7
+  - first:
+      213: 7949805101801135736
+    second: Wall_NotInked_8
+  - first:
+      213: 8898832062054255878
+    second: Wall_NotInked_9
+  - first:
+      213: -1005067106195054664
+    second: Wall_NotInked_10
+  - first:
+      213: -5690343489945877123
+    second: Wall_NotInked_11
+  - first:
+      213: 4512267487800478900
+    second: Wall_NotInked_12
+  - first:
+      213: -5063019919320075
+    second: Wall_NotInked_13
+  - first:
+      213: 4550128612854822672
+    second: Wall_NotInked_14
+  - first:
+      213: 8344750748231264864
+    second: Wall_NotInked_15
+  - first:
+      213: 6761795572965590931
+    second: Wall_NotInked_16
+  - first:
+      213: -7598533905202727541
+    second: Wall_NotInked_17
+  - first:
+      213: 861935517456854403
+    second: Wall_NotInked_18
+  - first:
+      213: 9090475990186207384
+    second: Wall_NotInked_19
+  - first:
+      213: 129250161952799561
+    second: Wall_NotInked_20
+  - first:
+      213: 2886111550351369108
+    second: Wall_NotInked_21
+  - first:
+      213: -7206851278211465132
+    second: Wall_NotInked_22
+  - first:
+      213: -2281640671732465131
+    second: Wall_NotInked_23
+  - first:
+      213: -2865539538766737474
+    second: Wall_NotInked_24
+  - first:
+      213: -4703296519760801150
+    second: Wall_NotInked_25
+  - first:
+      213: 7095327027943489339
+    second: Wall_NotInked_26
+  - first:
+      213: 4020524107876992327
+    second: Wall_NotInked_27
+  - first:
+      213: 2260485995238605314
+    second: Wall_NotInked_28
+  - first:
+      213: -2823823553919840832
+    second: Wall_NotInked_29
+  - first:
+      213: -3779369110279455145
+    second: Wall_NotInked_30
+  - first:
+      213: -5392429064349429063
+    second: Wall_NotInked_31
+  - first:
+      213: 8364631508737300488
+    second: Wall_NotInked_32
+  - first:
+      213: 2158794080996164444
+    second: Wall_NotInked_33
+  - first:
+      213: -2084553729892891844
+    second: Wall_NotInked_34
+  - first:
+      213: 4501966050735692973
+    second: Wall_NotInked_35
+  - first:
+      213: 1036493076871599866
+    second: Wall_NotInked_36
+  - first:
+      213: -945820993989305572
+    second: Wall_NotInked_37
+  - first:
+      213: 5771378131936378841
+    second: Wall_NotInked_38
+  - first:
+      213: -2209499160274007210
+    second: Wall_NotInked_39
+  - first:
+      213: 8726088326880515979
+    second: Wall_NotInked_40
+  - first:
+      213: 5213895963842738643
+    second: Wall_NotInked_41
+  - first:
+      213: 4317955537219625782
+    second: Wall_NotInked_42
+  - first:
+      213: -1566886172094290274
+    second: Wall_NotInked_43
+  - first:
+      213: -424778367173608528
+    second: Wall_NotInked_44
+  - first:
+      213: -9122012255818306209
+    second: Wall_NotInked_45
+  - first:
+      213: 4380168536149523
+    second: Wall_NotInked_46
+  - first:
+      213: 6008751576856404839
+    second: Wall_NotInked_47
+  - first:
+      213: 4506259272241868932
+    second: Wall_NotInked_48
+  - first:
+      213: -5239860545140765772
+    second: Wall_NotInked_49
+  - first:
+      213: -1159612613867117396
+    second: Wall_NotInked_50
+  - first:
+      213: 3977980433291762005
+    second: Wall_NotInked_51
+  - first:
+      213: -9169359634306393027
+    second: Wall_NotInked_52
+  - first:
+      213: 326864393987017695
+    second: Wall_NotInked_53
+  - first:
+      213: -4408370947377533201
+    second: Wall_NotInked_54
+  - first:
+      213: 3841399932872851390
+    second: Wall_NotInked_55
+  - first:
+      213: 9003278890047126725
+    second: Wall_NotInked_56
+  - first:
+      213: -4335004644142484800
+    second: Wall_NotInked_57
+  - first:
+      213: -3063136468372986846
+    second: Wall_NotInked_58
+  - first:
+      213: -1146417713624940369
+    second: Wall_NotInked_59
+  - first:
+      213: 3313197743146726939
+    second: Wall_NotInked_60
+  - first:
+      213: -2707911429620754389
+    second: Wall_NotInked_61
+  - first:
+      213: 7729166828199736424
+    second: Wall_NotInked_62
+  - first:
+      213: -562397396294824909
+    second: Wall_NotInked_63
+  - first:
+      213: 1608555909758899465
+    second: Wall_NotInked_64
+  - first:
+      213: 3231609355613350713
+    second: Wall_NotInked_65
+  - first:
+      213: 2195597673337558400
+    second: Wall_NotInked_66
+  - first:
+      213: -8465851320869608876
+    second: Wall_NotInked_67
+  - first:
+      213: 6044311747548854135
+    second: Wall_NotInked_68
+  - first:
+      213: -9110234825916207194
+    second: Wall_NotInked_69
+  - first:
+      213: 7834589502039807757
+    second: Wall_NotInked_70
+  - first:
+      213: -4594792092874801248
+    second: Wall_NotInked_71
+  - first:
+      213: -1137980392358739291
+    second: Wall_NotInked_72
+  - first:
+      213: -3011060257787294789
+    second: Wall_NotInked_73
+  - first:
+      213: 761341905779280755
+    second: Wall_NotInked_74
+  - first:
+      213: 8771640215117432957
+    second: Wall_NotInked_75
+  - first:
+      213: -215998906252551107
+    second: Wall_NotInked_76
+  - first:
+      213: -3490747938787197802
+    second: Wall_NotInked_77
+  - first:
+      213: -6605935593684446917
+    second: Wall_NotInked_78
+  - first:
+      213: 3118476163698863483
+    second: Wall_NotInked_79
+  - first:
+      213: -3478218362533477500
+    second: Wall_NotInked_80
+  - first:
+      213: -7724301433104035946
+    second: Wall_NotInked_81
+  - first:
+      213: -7633759723519742047
+    second: Wall_NotInked_82
+  - first:
+      213: -6100881813905654696
+    second: Wall_NotInked_83
+  - first:
+      213: -8925409444100301658
+    second: Wall_NotInked_84
+  - first:
+      213: 3875830757076630739
+    second: Wall_NotInked_85
+  - first:
+      213: -7574075345452756933
+    second: Wall_NotInked_86
+  - first:
+      213: -6270382436508577141
+    second: Wall_NotInked_87
+  - first:
+      213: 8133436508331005762
+    second: Wall_NotInked_88
+  - first:
+      213: 7409245595463806105
+    second: Wall_NotInked_89
+  - first:
+      213: -886255680732523798
+    second: Wall_NotInked_90
+  - first:
+      213: -4519711241827645699
+    second: Wall_NotInked_91
+  - first:
+      213: -2642399771611131979
+    second: Wall_NotInked_92
+  - first:
+      213: 7658208119213560778
+    second: Wall_NotInked_93
+  - first:
+      213: 3606415266336909154
+    second: Wall_NotInked_94
+  - first:
+      213: 6844062118323375888
+    second: Wall_NotInked_95
+  - first:
+      213: -5034560817823442079
+    second: Wall_NotInked_96
+  - first:
+      213: -3045942413676435872
+    second: Wall_NotInked_97
+  - first:
+      213: -5385064337405679781
+    second: Wall_NotInked_98
+  - first:
+      213: -7021329213564444607
+    second: Wall_NotInked_99
+  - first:
+      213: -1252074540066834943
+    second: Wall_NotInked_100
+  - first:
+      213: -4112424421442387837
+    second: Wall_NotInked_101
+  - first:
+      213: 2090697874841025676
+    second: Wall_NotInked_102
+  - first:
+      213: 701903527364512596
+    second: Wall_NotInked_103
+  - first:
+      213: 4544481511437084586
+    second: Wall_NotInked_104
+  - first:
+      213: 5472800008587842520
+    second: Wall_NotInked_105
+  - first:
+      213: 3235991229099279187
+    second: Wall_NotInked_106
+  - first:
+      213: -1475215935797935639
+    second: Wall_NotInked_107
+  - first:
+      213: 7286968529964342134
+    second: Wall_NotInked_108
+  - first:
+      213: -6309076928056969035
+    second: Wall_NotInked_109
+  - first:
+      213: 6215900860560646631
+    second: Wall_NotInked_110
+  - first:
+      213: 4227646203577069252
+    second: Wall_NotInked_111
+  - first:
+      213: -1848841054863500398
+    second: Wall_NotInked_112
+  - first:
+      213: -6274697843542163620
+    second: Wall_NotInked_113
+  - first:
+      213: -1255944000827911653
+    second: Wall_NotInked_114
+  - first:
+      213: -500694344859225235
+    second: Wall_NotInked_115
+  - first:
+      213: -7788841068895769900
+    second: Wall_NotInked_116
+  - first:
+      213: 5800225028394811109
+    second: Wall_NotInked_117
+  - first:
+      213: -2785018274739828650
+    second: Wall_NotInked_118
+  - first:
+      213: 8022428561621021344
+    second: Wall_NotInked_119
+  - first:
+      213: 3354287862204830164
+    second: Wall_NotInked_120
+  - first:
+      213: -4889790866815742247
+    second: Wall_NotInked_121
+  - first:
+      213: 5721502831853176318
+    second: Wall_NotInked_122
+  - first:
+      213: -695229692682370716
+    second: Wall_NotInked_123
+  - first:
+      213: 4452073219160615139
+    second: Wall_NotInked_124
+  - first:
+      213: -5630015466605237973
+    second: Wall_NotInked_125
+  - first:
+      213: -1306182919650485418
+    second: Wall_NotInked_126
+  - first:
+      213: -7401561128470199298
+    second: Wall_NotInked_127
+  - first:
+      213: 2921884060054564321
+    second: Wall_NotInked_128
+  - first:
+      213: 7342001304557471343
+    second: Wall_NotInked_129
+  - first:
+      213: -5468113154117124959
+    second: Wall_NotInked_130
+  - first:
+      213: -7862605991135001403
+    second: Wall_NotInked_131
+  - first:
+      213: -1613125311346476371
+    second: Wall_NotInked_132
+  - first:
+      213: -6423616298171790027
+    second: Wall_NotInked_133
+  - first:
+      213: -5921702264920709409
+    second: Wall_NotInked_134
+  - first:
+      213: 7033846512949835009
+    second: Wall_NotInked_135
+  - first:
+      213: 6936537112633372055
+    second: Wall_NotInked_136
+  - first:
+      213: 7992187772384673535
+    second: Wall_NotInked_137
+  - first:
+      213: -3806531638233112970
+    second: Wall_NotInked_138
+  - first:
+      213: -3007189885205719081
+    second: Wall_NotInked_139
+  - first:
+      213: -2329259640755819329
+    second: Wall_NotInked_140
+  - first:
+      213: 7687167499116809792
+    second: Wall_NotInked_141
+  - first:
+      213: 3704631780189780536
+    second: Wall_NotInked_142
+  - first:
+      213: 6838140447913496619
+    second: Wall_NotInked_143
+  - first:
+      213: -7078865354857900177
+    second: Wall_NotInked_144
+  - first:
+      213: 4802035455522449773
+    second: Wall_NotInked_145
+  - first:
+      213: -8014306031626121230
+    second: Wall_NotInked_146
+  - first:
+      213: -7192291105821450766
+    second: Wall_NotInked_147
+  - first:
+      213: 3160193167241673965
+    second: Wall_NotInked_148
+  - first:
+      213: 2632052383249339727
+    second: Wall_NotInked_149
+  - first:
+      213: -3975241444678985064
+    second: Wall_NotInked_150
+  - first:
+      213: -3523338071080116768
+    second: Wall_NotInked_151
+  - first:
+      213: 956261511323586582
+    second: Wall_NotInked_152
+  - first:
+      213: -2848734481910827963
+    second: Wall_NotInked_153
+  - first:
+      213: -2855830108890718535
+    second: Wall_NotInked_154
+  - first:
+      213: -1630132592021370675
+    second: Wall_NotInked_155
+  - first:
+      213: 2183046310062754441
+    second: Wall_NotInked_156
+  - first:
+      213: 7064264432563031945
+    second: Wall_NotInked_157
+  - first:
+      213: -8937775761882071522
+    second: Wall_NotInked_158
+  - first:
+      213: -655515114920700871
+    second: Wall_NotInked_159
+  - first:
+      213: 8735733367920495720
+    second: Wall_NotInked_160
+  - first:
+      213: 3391509164683716489
+    second: Wall_NotInked_161
+  - first:
+      213: 6363377492180483842
+    second: Wall_NotInked_162
+  - first:
+      213: -3283319353508821693
+    second: Wall_NotInked_163
+  - first:
+      213: 995257765836332486
+    second: Wall_NotInked_164
+  - first:
+      213: 3393865588137810904
+    second: Wall_NotInked_165
+  - first:
+      213: 7686910348515764067
+    second: Wall_NotInked_166
+  - first:
+      213: 7473330148041825031
+    second: Wall_NotInked_167
+  - first:
+      213: 5199321145542008797
+    second: Wall_NotInked_168
+  - first:
+      213: 42040894374177675
+    second: Wall_NotInked_169
+  - first:
+      213: -4901406850708575945
+    second: Wall_NotInked_170
+  - first:
+      213: 5056672667672198001
+    second: Wall_NotInked_171
+  - first:
+      213: 6755593026984737534
+    second: Wall_NotInked_172
+  - first:
+      213: 4618329535465121159
+    second: Wall_NotInked_173
+  - first:
+      213: 5503468628690358364
+    second: Wall_NotInked_174
+  - first:
+      213: 8155403883768453764
+    second: Wall_NotInked_175
+  - first:
+      213: -7694669885283701243
+    second: Wall_NotInked_176
+  - first:
+      213: 3571792750394200041
+    second: Wall_NotInked_177
+  - first:
+      213: 3944419208175428478
+    second: Wall_NotInked_178
+  - first:
+      213: 963582765915479186
+    second: Wall_NotInked_179
+  - first:
+      213: -3907232179397677812
+    second: Wall_NotInked_180
+  - first:
+      213: 1260763879379732255
+    second: Wall_NotInked_181
+  - first:
+      213: 7971156131694080477
+    second: Wall_NotInked_182
+  - first:
+      213: 4553425323800440312
+    second: Wall_NotInked_183
+  - first:
+      213: -3268623564292032507
+    second: Wall_NotInked_184
+  - first:
+      213: -8999551278004922997
+    second: Wall_NotInked_185
+  - first:
+      213: -3959117716258635570
+    second: Wall_NotInked_186
+  - first:
+      213: -7318591292751804371
+    second: Wall_NotInked_187
+  - first:
+      213: 299067342499937854
+    second: Wall_NotInked_188
+  - first:
+      213: -1251567038619612618
+    second: Wall_NotInked_189
+  - first:
+      213: -798420925827231844
+    second: Wall_NotInked_190
+  - first:
+      213: -5746921156172010242
+    second: Wall_NotInked_191
+  - first:
+      213: -8779676258932078733
+    second: Wall_NotInked_192
+  - first:
+      213: 4408613459508935926
+    second: Wall_NotInked_193
+  - first:
+      213: 2038340141433035183
+    second: Wall_NotInked_194
+  - first:
+      213: -7817697760086116694
+    second: Wall_NotInked_195
+  - first:
+      213: -3341902251112748618
+    second: Wall_NotInked_196
+  - first:
+      213: -2647295881665828956
+    second: Wall_NotInked_197
+  - first:
+      213: -8842536527240184464
+    second: Wall_NotInked_198
+  - first:
+      213: 7643025092098950149
+    second: Wall_NotInked_199
+  - first:
+      213: 2373675204478870402
+    second: Wall_NotInked_200
+  - first:
+      213: 4114200784806755664
+    second: Wall_NotInked_201
+  - first:
+      213: -322619720204038526
+    second: Wall_NotInked_202
+  - first:
+      213: -7753359058492548957
+    second: Wall_NotInked_203
+  - first:
+      213: 9192520840170034909
+    second: Wall_NotInked_204
+  - first:
+      213: -3340194401503532778
+    second: Wall_NotInked_205
+  - first:
+      213: -4983053673326073973
+    second: Wall_NotInked_206
+  - first:
+      213: 1933330534990807748
+    second: Wall_NotInked_207
+  - first:
+      213: 1957675057079372119
+    second: Wall_NotInked_208
+  - first:
+      213: 45143633591702665
+    second: Wall_NotInked_209
+  - first:
+      213: -7394681987168393220
+    second: Wall_NotInked_210
+  - first:
+      213: -4197284675169002156
+    second: Wall_NotInked_211
+  - first:
+      213: -7423499210309868463
+    second: Wall_NotInked_212
+  - first:
+      213: 2163818435086350433
+    second: Wall_NotInked_213
+  - first:
+      213: -8136783899405556961
+    second: Wall_NotInked_214
+  - first:
+      213: -5137708762748417618
+    second: Wall_NotInked_215
+  - first:
+      213: -3837883658530971389
+    second: Wall_NotInked_216
+  - first:
+      213: 6264817953629537519
+    second: Wall_NotInked_217
+  - first:
+      213: -2258409562959471196
+    second: Wall_NotInked_218
+  - first:
+      213: 3680793237975126356
+    second: Wall_NotInked_219
+  - first:
+      213: -7354770011672278273
+    second: Wall_NotInked_220
+  - first:
+      213: 3395121780796431629
+    second: Wall_NotInked_221
+  - first:
+      213: -1239128795254345148
+    second: Wall_NotInked_222
+  - first:
+      213: -3259948945497009094
+    second: Wall_NotInked_223
+  - first:
+      213: -5400160572740058431
+    second: Wall_NotInked_224
+  - first:
+      213: 2679899542145444038
+    second: Wall_NotInked_225
+  - first:
+      213: -3775456353178201520
+    second: Wall_NotInked_226
+  - first:
+      213: -1200749856592321965
+    second: Wall_NotInked_227
+  - first:
+      213: -4534085067514472316
+    second: Wall_NotInked_228
+  - first:
+      213: 1044911216564915207
+    second: Wall_NotInked_229
+  - first:
+      213: 8980914942986520845
+    second: Wall_NotInked_230
+  - first:
+      213: 8212742935441354926
+    second: Wall_NotInked_231
+  - first:
+      213: 4442180145165979723
+    second: Wall_NotInked_232
+  - first:
+      213: -6504408978318096390
+    second: Wall_NotInked_233
+  - first:
+      213: 7784113233787477127
+    second: Wall_NotInked_234
+  - first:
+      213: -6948201377494157795
+    second: Wall_NotInked_235
+  - first:
+      213: -4758676570360583808
+    second: Wall_NotInked_236
+  - first:
+      213: 5468796514469628572
+    second: Wall_NotInked_237
+  - first:
+      213: -3581504245182130371
+    second: Wall_NotInked_238
+  - first:
+      213: 1812150813529621497
+    second: Wall_NotInked_239
+  - first:
+      213: 883248250227803032
+    second: Wall_NotInked_240
+  - first:
+      213: 5259771596776659845
+    second: Wall_NotInked_241
+  - first:
+      213: 6877073285395876833
+    second: Wall_NotInked_242
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wall_NotInked_0
+      rect:
+        serializedVersion: 2
+        x: 9482
+        y: 7492
+        width: 3042
+        height: 3827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1f5d2fc740edfe0800000000000000
+      internalID: -1162486719118446148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_1
+      rect:
+        serializedVersion: 2
+        x: 10922
+        y: 11315
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a606a364489acc90800000000000000
+      internalID: -7148734039000217943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_2
+      rect:
+        serializedVersion: 2
+        x: 10926
+        y: 11318
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9909cff3ce9d0f8e0800000000000000
+      internalID: -1661588653790687079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_3
+      rect:
+        serializedVersion: 2
+        x: 10940
+        y: 11318
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6db47449f5884f60800000000000000
+      internalID: 8018806442175020396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_4
+      rect:
+        serializedVersion: 2
+        x: 10953
+        y: 11315
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e38c8d7faed6030800000000000000
+      internalID: 3489703636496825976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_5
+      rect:
+        serializedVersion: 2
+        x: 10971
+        y: 11310
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120bcdb02bf962b60800000000000000
+      internalID: 7721034198225301537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_6
+      rect:
+        serializedVersion: 2
+        x: 10890
+        y: 11305
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14963c5e9fd939a00800000000000000
+      internalID: 762126458582952257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_7
+      rect:
+        serializedVersion: 2
+        x: 10909
+        y: 11304
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a75e6db1d8698880800000000000000
+      internalID: -8608233962706413661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_8
+      rect:
+        serializedVersion: 2
+        x: 10938
+        y: 11306
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ed176ce91635e60800000000000000
+      internalID: 7949805101801135736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_9
+      rect:
+        serializedVersion: 2
+        x: 10946
+        y: 11309
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dc996cc900f7b70800000000000000
+      internalID: 8898832062054255878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_10
+      rect:
+        serializedVersion: 2
+        x: 11027
+        y: 11302
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf50dfbac84d02f0800000000000000
+      internalID: -1005067106195054664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_11
+      rect:
+        serializedVersion: 2
+        x: 11051
+        y: 11305
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75c1df9eb6d701b0800000000000000
+      internalID: -5690343489945877123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_12
+      rect:
+        serializedVersion: 2
+        x: 11067
+        y: 11305
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc44e58f5bce9e30800000000000000
+      internalID: 4512267487800478900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_13
+      rect:
+        serializedVersion: 2
+        x: 12698
+        y: 10542
+        width: 242
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbd730d5330eeff0800000000000000
+      internalID: -5063019919320075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_14
+      rect:
+        serializedVersion: 2
+        x: 12510
+        y: 10184
+        width: 235
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0177d83addd452f30800000000000000
+      internalID: 4550128612854822672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_15
+      rect:
+        serializedVersion: 2
+        x: 12841
+        y: 10167
+        width: 261
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06aef77d7928ec370800000000000000
+      internalID: 8344750748231264864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_16
+      rect:
+        serializedVersion: 2
+        x: 12541
+        y: 9843
+        width: 231
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3974c628f39b6dd50800000000000000
+      internalID: 6761795572965590931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_17
+      rect:
+        serializedVersion: 2
+        x: 12880
+        y: 9854
+        width: 226
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8531a60ca59c8690800000000000000
+      internalID: -7598533905202727541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_18
+      rect:
+        serializedVersion: 2
+        x: 12692
+        y: 9605
+        width: 234
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dee4159c536fb00800000000000000
+      internalID: 861935517456854403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_19
+      rect:
+        serializedVersion: 2
+        x: 12511
+        y: 9545
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898244aefbbd72e70800000000000000
+      internalID: 9090475990186207384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_20
+      rect:
+        serializedVersion: 2
+        x: 12534
+        y: 9553
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bbb5666503bc100800000000000000
+      internalID: 129250161952799561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_21
+      rect:
+        serializedVersion: 2
+        x: 12549
+        y: 9531
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49368dce9278d0820800000000000000
+      internalID: 2886111550351369108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_22
+      rect:
+        serializedVersion: 2
+        x: 12580
+        y: 9539
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450c22d22fe1cfb90800000000000000
+      internalID: -7206851278211465132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_23
+      rect:
+        serializedVersion: 2
+        x: 12498
+        y: 9526
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5128d40d5ebf550e0800000000000000
+      internalID: -2281640671732465131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_24
+      rect:
+        serializedVersion: 2
+        x: 12518
+        y: 9520
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfc8f5c8fe8b38d0800000000000000
+      internalID: -2865539538766737474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_25
+      rect:
+        serializedVersion: 2
+        x: 12568
+        y: 9513
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28293520cb88abeb0800000000000000
+      internalID: -4703296519760801150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_26
+      rect:
+        serializedVersion: 2
+        x: 12497
+        y: 9515
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fbcc9d65aa77260800000000000000
+      internalID: 7095327027943489339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_27
+      rect:
+        serializedVersion: 2
+        x: 12514
+        y: 9517
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74507ecdf55cbc730800000000000000
+      internalID: 4020524107876992327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_28
+      rect:
+        serializedVersion: 2
+        x: 12489
+        y: 9493
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20241fd390cde5f10800000000000000
+      internalID: 2260485995238605314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_29
+      rect:
+        serializedVersion: 2
+        x: 12504
+        y: 9503
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd0a306073cfc8d0800000000000000
+      internalID: -2823823553919840832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_30
+      rect:
+        serializedVersion: 2
+        x: 12521
+        y: 9504
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e75b271dbfc8bc0800000000000000
+      internalID: -3779369110279455145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_31
+      rect:
+        serializedVersion: 2
+        x: 12551
+        y: 9493
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2d5f6165e3a25b0800000000000000
+      internalID: -5392429064349429063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_32
+      rect:
+        serializedVersion: 2
+        x: 12580
+        y: 9500
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808935b1a04251470800000000000000
+      internalID: 8364631508737300488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_33
+      rect:
+        serializedVersion: 2
+        x: 12496
+        y: 9485
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c530ef467c395fd10800000000000000
+      internalID: 2158794080996164444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_34
+      rect:
+        serializedVersion: 2
+        x: 12509
+        y: 9492
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33c4865d6d2213e0800000000000000
+      internalID: -2084553729892891844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_35
+      rect:
+        serializedVersion: 2
+        x: 12511
+        y: 9483
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac18fc45423a7e30800000000000000
+      internalID: 4501966050735692973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_36
+      rect:
+        serializedVersion: 2
+        x: 12492
+        y: 9472
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6551b36fc526e00800000000000000
+      internalID: 1036493076871599866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_37
+      rect:
+        serializedVersion: 2
+        x: 12495
+        y: 9474
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b192031d4cfd2f0800000000000000
+      internalID: -945820993989305572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_38
+      rect:
+        serializedVersion: 2
+        x: 12508
+        y: 9475
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df768a35dd081050800000000000000
+      internalID: 5771378131936378841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_39
+      rect:
+        serializedVersion: 2
+        x: 12540
+        y: 9474
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b085c58384651e0800000000000000
+      internalID: -2209499160274007210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_40
+      rect:
+        serializedVersion: 2
+        x: 12549
+        y: 9476
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87556ab91b491970800000000000000
+      internalID: 8726088326880515979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_41
+      rect:
+        serializedVersion: 2
+        x: 12567
+        y: 9477
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d970b431ca7b5840800000000000000
+      internalID: 5213895963842738643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_42
+      rect:
+        serializedVersion: 2
+        x: 12602
+        y: 9456
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63328effea57ceb30800000000000000
+      internalID: 4317955537219625782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_43
+      rect:
+        serializedVersion: 2
+        x: 12615
+        y: 9458
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9629d4045d414ae0800000000000000
+      internalID: -1566886172094290274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_44
+      rect:
+        serializedVersion: 2
+        x: 9476
+        y: 9457
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbb85c5352ea1af0800000000000000
+      internalID: -424778367173608528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_45
+      rect:
+        serializedVersion: 2
+        x: 12509
+        y: 9462
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5da03f0f2a186180800000000000000
+      internalID: -9122012255818306209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_46
+      rect:
+        serializedVersion: 2
+        x: 12522
+        y: 9452
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e47a57dbf8f0000800000000000000
+      internalID: 4380168536149523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_47
+      rect:
+        serializedVersion: 2
+        x: 12547
+        y: 9451
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763281239bf536350800000000000000
+      internalID: 6008751576856404839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_48
+      rect:
+        serializedVersion: 2
+        x: 12564
+        y: 9450
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48079c3dee2798e30800000000000000
+      internalID: 4506259272241868932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_49
+      rect:
+        serializedVersion: 2
+        x: 12482
+        y: 9431
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbcc4e98964847b0800000000000000
+      internalID: -5239860545140765772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_50
+      rect:
+        serializedVersion: 2
+        x: 12508
+        y: 9430
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca46369b87a38efe0800000000000000
+      internalID: -1159612613867117396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_51
+      rect:
+        serializedVersion: 2
+        x: 12541
+        y: 9443
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5595fc9b020a43730800000000000000
+      internalID: 3977980433291762005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_52
+      rect:
+        serializedVersion: 2
+        x: 12589
+        y: 9437
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c9c537ef3efb080800000000000000
+      internalID: -9169359634306393027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_53
+      rect:
+        serializedVersion: 2
+        x: 12501
+        y: 9413
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbc15d3f61498400800000000000000
+      internalID: 326864393987017695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_54
+      rect:
+        serializedVersion: 2
+        x: 12525
+        y: 9418
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feee86bdaf152d2c0800000000000000
+      internalID: -4408370947377533201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_55
+      rect:
+        serializedVersion: 2
+        x: 12540
+        y: 9409
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf7817e2e46f4530800000000000000
+      internalID: 3841399932872851390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_56
+      rect:
+        serializedVersion: 2
+        x: 12580
+        y: 9413
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc3807f27212fc70800000000000000
+      internalID: 9003278890047126725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_57
+      rect:
+        serializedVersion: 2
+        x: 12494
+        y: 9387
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2f7367e38f6d3c0800000000000000
+      internalID: -4335004644142484800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_58
+      rect:
+        serializedVersion: 2
+        x: 12504
+        y: 9396
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22465187c9d8d75d0800000000000000
+      internalID: -3063136468372986846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_59
+      rect:
+        serializedVersion: 2
+        x: 12524
+        y: 9372
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa08b27d92b1710f0800000000000000
+      internalID: -1146417713624940369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_60
+      rect:
+        serializedVersion: 2
+        x: 12573
+        y: 9390
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16f2e61bc7dafd20800000000000000
+      internalID: 3313197743146726939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_61
+      rect:
+        serializedVersion: 2
+        x: 12590
+        y: 9374
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b281c32e6e09b6ad0800000000000000
+      internalID: -2707911429620754389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_62
+      rect:
+        serializedVersion: 2
+        x: 12514
+        y: 9349
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864f3948744834b60800000000000000
+      internalID: 7729166828199736424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_63
+      rect:
+        serializedVersion: 2
+        x: 12529
+        y: 9340
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c0e3b3c86f138f0800000000000000
+      internalID: -562397396294824909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_64
+      rect:
+        serializedVersion: 2
+        x: 12553
+        y: 9344
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905d882d31db25610800000000000000
+      internalID: 1608555909758899465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_65
+      rect:
+        serializedVersion: 2
+        x: 12507
+        y: 9295
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ba92e469bf8dc20800000000000000
+      internalID: 3231609355613350713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_66
+      rect:
+        serializedVersion: 2
+        x: 12499
+        y: 9255
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08595fc7374587e10800000000000000
+      internalID: 2195597673337558400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_67
+      rect:
+        serializedVersion: 2
+        x: 12501
+        y: 9236
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452ab42e311438a80800000000000000
+      internalID: -8465851320869608876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_68
+      rect:
+        serializedVersion: 2
+        x: 12502
+        y: 9116
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777be50a285b1e350800000000000000
+      internalID: 6044311747548854135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_69
+      rect:
+        serializedVersion: 2
+        x: 12496
+        y: 9101
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af2fd4a1b1f19180800000000000000
+      internalID: -9110234825916207194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_70
+      rect:
+        serializedVersion: 2
+        x: 12498
+        y: 9108
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07561684ad0abc60800000000000000
+      internalID: 7834589502039807757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_71
+      rect:
+        serializedVersion: 2
+        x: 12520
+        y: 9102
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af7c6f8fe40c30c0800000000000000
+      internalID: -4594792092874801248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_72
+      rect:
+        serializedVersion: 2
+        x: 12505
+        y: 9095
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a20918ccd41530f0800000000000000
+      internalID: -1137980392358739291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_73
+      rect:
+        serializedVersion: 2
+        x: 12500
+        y: 9082
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbca4916a09636d0800000000000000
+      internalID: -3011060257787294789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_74
+      rect:
+        serializedVersion: 2
+        x: 12442
+        y: 8998
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bc796fd64d09a00800000000000000
+      internalID: 761341905779280755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_75
+      rect:
+        serializedVersion: 2
+        x: 12529
+        y: 8803
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d780b9f2d402bb970800000000000000
+      internalID: 8771640215117432957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_76
+      rect:
+        serializedVersion: 2
+        x: 12490
+        y: 8751
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c91f0a32e900df0800000000000000
+      internalID: -215998906252551107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_77
+      rect:
+        serializedVersion: 2
+        x: 12508
+        y: 8721
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c79249e3f5e8fc0800000000000000
+      internalID: -3490747938787197802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_78
+      rect:
+        serializedVersion: 2
+        x: 12478
+        y: 8658
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b315459c3900354a0800000000000000
+      internalID: -6605935593684446917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_79
+      rect:
+        serializedVersion: 2
+        x: 12532
+        y: 8686
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d2bc96c8d074b20800000000000000
+      internalID: 3118476163698863483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_80
+      rect:
+        serializedVersion: 2
+        x: 12512
+        y: 8671
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48383f1e3d2eabfc0800000000000000
+      internalID: -3478218362533477500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_81
+      rect:
+        serializedVersion: 2
+        x: 12533
+        y: 8670
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f0bcd85c4cdc490800000000000000
+      internalID: -7724301433104035946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_82
+      rect:
+        serializedVersion: 2
+        x: 12520
+        y: 8642
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afebe21aff6f0690800000000000000
+      internalID: -7633759723519742047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_83
+      rect:
+        serializedVersion: 2
+        x: 12562
+        y: 8636
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c33896050555ba0800000000000000
+      internalID: -6100881813905654696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_84
+      rect:
+        serializedVersion: 2
+        x: 12499
+        y: 8621
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac1c714663922480800000000000000
+      internalID: -8925409444100301658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_85
+      rect:
+        serializedVersion: 2
+        x: 12580
+        y: 8630
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcf51dd987b9c530800000000000000
+      internalID: 3875830757076630739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_86
+      rect:
+        serializedVersion: 2
+        x: 12522
+        y: 8616
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b309e3c3a9a73e690800000000000000
+      internalID: -7574075345452756933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_87
+      rect:
+        serializedVersion: 2
+        x: 12551
+        y: 8619
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82de0a55602bf8a0800000000000000
+      internalID: -6270382436508577141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_88
+      rect:
+        serializedVersion: 2
+        x: 12511
+        y: 8604
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247534a5965cfd070800000000000000
+      internalID: 8133436508331005762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_89
+      rect:
+        serializedVersion: 2
+        x: 12545
+        y: 8605
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c6f3bfc9de2d660800000000000000
+      internalID: 7409245595463806105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_90
+      rect:
+        serializedVersion: 2
+        x: 12601
+        y: 8597
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae214c9672363b3f0800000000000000
+      internalID: -886255680732523798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_91
+      rect:
+        serializedVersion: 2
+        x: 12520
+        y: 8595
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6068f6292c641c0800000000000000
+      internalID: -4519711241827645699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_92
+      rect:
+        serializedVersion: 2
+        x: 12580
+        y: 8584
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf8b82686f445bd0800000000000000
+      internalID: -2642399771611131979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_93
+      rect:
+        serializedVersion: 2
+        x: 9461
+        y: 8575
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac39cb1a5bb674a60800000000000000
+      internalID: 7658208119213560778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_94
+      rect:
+        serializedVersion: 2
+        x: 9478
+        y: 8587
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267ae8eb39f8c0230800000000000000
+      internalID: 3606415266336909154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_95
+      rect:
+        serializedVersion: 2
+        x: 12538
+        y: 8574
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f4f573c3efafe50800000000000000
+      internalID: 6844062118323375888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_96
+      rect:
+        serializedVersion: 2
+        x: 12557
+        y: 8583
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b98854c95a12ab0800000000000000
+      internalID: -5034560817823442079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_97
+      rect:
+        serializedVersion: 2
+        x: 12590
+        y: 8539
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066258a4383aab5d0800000000000000
+      internalID: -3045942413676435872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_98
+      rect:
+        serializedVersion: 2
+        x: 12496
+        y: 8569
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b576f4434886445b0800000000000000
+      internalID: -5385064337405679781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_99
+      rect:
+        serializedVersion: 2
+        x: 12579
+        y: 8571
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1402b66e74a3f8e90800000000000000
+      internalID: -7021329213564444607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_100
+      rect:
+        serializedVersion: 2
+        x: 9475
+        y: 8555
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106710fe6dcbf9ee0800000000000000
+      internalID: -1252074540066834943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_101
+      rect:
+        serializedVersion: 2
+        x: 12498
+        y: 8550
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380094af6cbbde6c0800000000000000
+      internalID: -4112424421442387837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_102
+      rect:
+        serializedVersion: 2
+        x: 12523
+        y: 8556
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c3092e3a6a30d10800000000000000
+      internalID: 2090697874841025676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_103
+      rect:
+        serializedVersion: 2
+        x: 12541
+        y: 8549
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bc72f0a89adb900800000000000000
+      internalID: 701903527364512596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_104
+      rect:
+        serializedVersion: 2
+        x: 9477
+        y: 8544
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7a9816bdd311f30800000000000000
+      internalID: 4544481511437084586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_105
+      rect:
+        serializedVersion: 2
+        x: 12505
+        y: 8532
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d312a69c9a43fb40800000000000000
+      internalID: 5472800008587842520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_106
+      rect:
+        serializedVersion: 2
+        x: 9471
+        y: 8535
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3530ebab0ec88ec20800000000000000
+      internalID: 3235991229099279187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_107
+      rect:
+        serializedVersion: 2
+        x: 12534
+        y: 8527
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1c4c32ceaf68be0800000000000000
+      internalID: -1475215935797935639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_108
+      rect:
+        serializedVersion: 2
+        x: 12550
+        y: 8526
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b99fd1543802560800000000000000
+      internalID: 7286968529964342134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_109
+      rect:
+        serializedVersion: 2
+        x: 12579
+        y: 8523
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b83d8af5f7a178a0800000000000000
+      internalID: -6309076928056969035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_110
+      rect:
+        serializedVersion: 2
+        x: 12502
+        y: 8506
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e123c046e0534650800000000000000
+      internalID: 6215900860560646631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_111
+      rect:
+        serializedVersion: 2
+        x: 12505
+        y: 8517
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce6d38b2dd9baa30800000000000000
+      internalID: 4227646203577069252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_112
+      rect:
+        serializedVersion: 2
+        x: 12519
+        y: 8489
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bd3be2bd89756e0800000000000000
+      internalID: -1848841054863500398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_113
+      rect:
+        serializedVersion: 2
+        x: 12500
+        y: 8463
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f72ca5e8bcbe8a0800000000000000
+      internalID: -6274697843542163620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_114
+      rect:
+        serializedVersion: 2
+        x: 12527
+        y: 8474
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b129ed4e59df19ee0800000000000000
+      internalID: -1255944000827911653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_115
+      rect:
+        serializedVersion: 2
+        x: 12549
+        y: 8472
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d637e99652d2d09f0800000000000000
+      internalID: -500694344859225235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_116
+      rect:
+        serializedVersion: 2
+        x: 12473
+        y: 8430
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da6e7c905a78e390800000000000000
+      internalID: -7788841068895769900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_117
+      rect:
+        serializedVersion: 2
+        x: 12541
+        y: 8417
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee7dc2bee98e7050800000000000000
+      internalID: 5800225028394811109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_118
+      rect:
+        serializedVersion: 2
+        x: 12561
+        y: 8407
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658492182a0a959d0800000000000000
+      internalID: -2785018274739828650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_119
+      rect:
+        serializedVersion: 2
+        x: 9441
+        y: 8400
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a27e5ba544655f60800000000000000
+      internalID: 8022428561621021344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_120
+      rect:
+        serializedVersion: 2
+        x: 9449
+        y: 8397
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d19f15f903dc8e20800000000000000
+      internalID: 3354287862204830164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_121
+      rect:
+        serializedVersion: 2
+        x: 9476
+        y: 8402
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de8f752d19f32cb0800000000000000
+      internalID: -4889790866815742247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_122
+      rect:
+        serializedVersion: 2
+        x: 9419
+        y: 8392
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef50002038cd66f40800000000000000
+      internalID: 5721502831853176318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_123
+      rect:
+        serializedVersion: 2
+        x: 12508
+        y: 8382
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4610d5a274c0a56f0800000000000000
+      internalID: -695229692682370716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_124
+      rect:
+        serializedVersion: 2
+        x: 9423
+        y: 8379
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e829163101f8cd30800000000000000
+      internalID: 4452073219160615139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_125
+      rect:
+        serializedVersion: 2
+        x: 9448
+        y: 8376
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b292a0123ca2ed1b0800000000000000
+      internalID: -5630015466605237973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_126
+      rect:
+        serializedVersion: 2
+        x: 9451
+        y: 8384
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bdc861e818fdde0800000000000000
+      internalID: -1306182919650485418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_127
+      rect:
+        serializedVersion: 2
+        x: 9473
+        y: 8384
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3c13a6e5f584990800000000000000
+      internalID: -7401561128470199298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_128
+      rect:
+        serializedVersion: 2
+        x: 9420
+        y: 8372
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edad62621e9c8820800000000000000
+      internalID: 2921884060054564321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_129
+      rect:
+        serializedVersion: 2
+        x: 9434
+        y: 8370
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f664a92794704e560800000000000000
+      internalID: 7342001304557471343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_130
+      rect:
+        serializedVersion: 2
+        x: 9462
+        y: 8372
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac3531ce0c5d14b0800000000000000
+      internalID: -5468113154117124959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_131
+      rect:
+        serializedVersion: 2
+        x: 9475
+        y: 8367
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c44a89428962e290800000000000000
+      internalID: -7862605991135001403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_132
+      rect:
+        serializedVersion: 2
+        x: 12531
+        y: 8358
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa700773170d99e0800000000000000
+      internalID: -1613125311346476371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_133
+      rect:
+        serializedVersion: 2
+        x: 9436
+        y: 8361
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d8f06b20bbad6a0800000000000000
+      internalID: -6423616298171790027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_134
+      rect:
+        serializedVersion: 2
+        x: 9457
+        y: 8362
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd666c12a23e1dda0800000000000000
+      internalID: -5921702264920709409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_135
+      rect:
+        serializedVersion: 2
+        x: 9464
+        y: 8363
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105bef8f22e3d9160800000000000000
+      internalID: 7033846512949835009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_136
+      rect:
+        serializedVersion: 2
+        x: 9478
+        y: 8353
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d63d9a0c7834060800000000000000
+      internalID: 6936537112633372055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_137
+      rect:
+        serializedVersion: 2
+        x: 9403
+        y: 8350
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe753f3f64f9ee60800000000000000
+      internalID: 7992187772384673535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_138
+      rect:
+        serializedVersion: 2
+        x: 9429
+        y: 8348
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e54d494ab7c2bc0800000000000000
+      internalID: -3806531638233112970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_139
+      rect:
+        serializedVersion: 2
+        x: 9446
+        y: 8351
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d75a207bb05446d0800000000000000
+      internalID: -3007189885205719081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_140
+      rect:
+        serializedVersion: 2
+        x: 9468
+        y: 8356
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc681b92beccafd0800000000000000
+      internalID: -2329259640755819329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_141
+      rect:
+        serializedVersion: 2
+        x: 9478
+        y: 8346
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e09c1bc1e4eaa60800000000000000
+      internalID: 7687167499116809792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_142
+      rect:
+        serializedVersion: 2
+        x: 9418
+        y: 8341
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ab5d1e9fe796330800000000000000
+      internalID: 3704631780189780536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_143
+      rect:
+        serializedVersion: 2
+        x: 9440
+        y: 8346
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b205d12e184f5ee50800000000000000
+      internalID: 6838140447913496619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_144
+      rect:
+        serializedVersion: 2
+        x: 9458
+        y: 8342
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6710e61771d2cd90800000000000000
+      internalID: -7078865354857900177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_145
+      rect:
+        serializedVersion: 2
+        x: 9467
+        y: 8342
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d692f35fdc144a240800000000000000
+      internalID: 4802035455522449773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_146
+      rect:
+        serializedVersion: 2
+        x: 9438
+        y: 8330
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff87a7302777c090800000000000000
+      internalID: -8014306031626121230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_147
+      rect:
+        serializedVersion: 2
+        x: 9451
+        y: 8334
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd9f4c7859df2c90800000000000000
+      internalID: -7192291105821450766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_148
+      rect:
+        serializedVersion: 2
+        x: 9470
+        y: 8328
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec7e0331f24bdb20800000000000000
+      internalID: 3160193167241673965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_149
+      rect:
+        serializedVersion: 2
+        x: 9477
+        y: 8317
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f451cc582bde68420800000000000000
+      internalID: 2632052383249339727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_150
+      rect:
+        serializedVersion: 2
+        x: 9461
+        y: 8323
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a9f71c7fa15d8c0800000000000000
+      internalID: -3975241444678985064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_151
+      rect:
+        serializedVersion: 2
+        x: 9419
+        y: 8313
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edd8a911b69a1fc0800000000000000
+      internalID: -3523338071080116768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_152
+      rect:
+        serializedVersion: 2
+        x: 9450
+        y: 8314
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61012de27c2554d00800000000000000
+      internalID: 956261511323586582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_153
+      rect:
+        serializedVersion: 2
+        x: 9458
+        y: 8300
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5447c4af4134778d0800000000000000
+      internalID: -2848734481910827963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_154
+      rect:
+        serializedVersion: 2
+        x: 9480
+        y: 8303
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be14b495ad0e58d0800000000000000
+      internalID: -2855830108890718535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_155
+      rect:
+        serializedVersion: 2
+        x: 9454
+        y: 8265
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc887cb5b0b9069e0800000000000000
+      internalID: -1630132592021370675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_156
+      rect:
+        serializedVersion: 2
+        x: 9477
+        y: 8284
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a848f7d0dbb4e10800000000000000
+      internalID: 2183046310062754441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_157
+      rect:
+        serializedVersion: 2
+        x: 9472
+        y: 8275
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f8856c21f490260800000000000000
+      internalID: 7064264432563031945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_158
+      rect:
+        serializedVersion: 2
+        x: 9476
+        y: 8269
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e3ce68c44a6f380800000000000000
+      internalID: -8937775761882071522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_159
+      rect:
+        serializedVersion: 2
+        x: 9450
+        y: 8261
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934904ed97427e6f0800000000000000
+      internalID: -655515114920700871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_160
+      rect:
+        serializedVersion: 2
+        x: 9471
+        y: 8234
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c8d67d63f8b3970800000000000000
+      internalID: 8735733367920495720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_161
+      rect:
+        serializedVersion: 2
+        x: 9463
+        y: 8240
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9876475cd9f011f20800000000000000
+      internalID: 3391509164683716489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_162
+      rect:
+        serializedVersion: 2
+        x: 9472
+        y: 8220
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f32215d124f4850800000000000000
+      internalID: 6363377492180483842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_163
+      rect:
+        serializedVersion: 2
+        x: 9477
+        y: 8195
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34501f9917e4f62d0800000000000000
+      internalID: -3283319353508821693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_164
+      rect:
+        serializedVersion: 2
+        x: 9480
+        y: 8205
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd9f983aaddfcd00800000000000000
+      internalID: 995257765836332486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_165
+      rect:
+        serializedVersion: 2
+        x: 9460
+        y: 8188
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db506c55ce691f20800000000000000
+      internalID: 3393865588137810904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_166
+      rect:
+        serializedVersion: 2
+        x: 9470
+        y: 8191
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3676e872c346daa60800000000000000
+      internalID: 7686910348515764067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_167
+      rect:
+        serializedVersion: 2
+        x: 9476
+        y: 8185
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b104b9c2a96b760800000000000000
+      internalID: 7473330148041825031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_168
+      rect:
+        serializedVersion: 2
+        x: 9481
+        y: 8183
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf5531e803b72840800000000000000
+      internalID: 5199321145542008797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_169
+      rect:
+        serializedVersion: 2
+        x: 9455
+        y: 8162
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b663f78fb559000800000000000000
+      internalID: 42040894374177675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_170
+      rect:
+        serializedVersion: 2
+        x: 9475
+        y: 8161
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73969d32074bafbb0800000000000000
+      internalID: -4901406850708575945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_171
+      rect:
+        serializedVersion: 2
+        x: 9438
+        y: 8150
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b3706fff8ec2640800000000000000
+      internalID: 5056672667672198001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_172
+      rect:
+        serializedVersion: 2
+        x: 9452
+        y: 8135
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaf78cb010b0cd50800000000000000
+      internalID: 6755593026984737534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_173
+      rect:
+        serializedVersion: 2
+        x: 9476
+        y: 8153
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785e7195e3a971040800000000000000
+      internalID: 4618329535465121159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_174
+      rect:
+        serializedVersion: 2
+        x: 9481
+        y: 8140
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5058952f8f306c40800000000000000
+      internalID: 5503468628690358364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_175
+      rect:
+        serializedVersion: 2
+        x: 9452
+        y: 8130
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a1cd38f90dd2170800000000000000
+      internalID: 8155403883768453764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_176
+      rect:
+        serializedVersion: 2
+        x: 9453
+        y: 8120
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ee4c7e18a073590800000000000000
+      internalID: -7694669885283701243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_177
+      rect:
+        serializedVersion: 2
+        x: 9466
+        y: 8130
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efcf82159e819130800000000000000
+      internalID: 3571792750394200041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_178
+      rect:
+        serializedVersion: 2
+        x: 9478
+        y: 8130
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7326841f546db630800000000000000
+      internalID: 3944419208175428478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_179
+      rect:
+        serializedVersion: 2
+        x: 9434
+        y: 8101
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c941a9b655f5d00800000000000000
+      internalID: 963582765915479186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_180
+      rect:
+        serializedVersion: 2
+        x: 9448
+        y: 8111
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0da604c809b6c9c0800000000000000
+      internalID: -3907232179397677812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_181
+      rect:
+        serializedVersion: 2
+        x: 9457
+        y: 8110
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17821881122f7110800000000000000
+      internalID: 1260763879379732255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_182
+      rect:
+        serializedVersion: 2
+        x: 9468
+        y: 8113
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd17dcec44c3f9e60800000000000000
+      internalID: 7971156131694080477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_183
+      rect:
+        serializedVersion: 2
+        x: 9473
+        y: 8098
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fda468f434013f30800000000000000
+      internalID: 4553425323800440312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_184
+      rect:
+        serializedVersion: 2
+        x: 9474
+        y: 8114
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508f6e9af2483a2d0800000000000000
+      internalID: -3268623564292032507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_185
+      rect:
+        serializedVersion: 2
+        x: 9447
+        y: 8102
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b859a985bcb2b1380800000000000000
+      internalID: -8999551278004922997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_186
+      rect:
+        serializedVersion: 2
+        x: 9462
+        y: 8088
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0c272d9636e09c0800000000000000
+      internalID: -3959117716258635570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_187
+      rect:
+        serializedVersion: 2
+        x: 9430
+        y: 8080
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28034baef32f6a90800000000000000
+      internalID: -7318591292751804371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_188
+      rect:
+        serializedVersion: 2
+        x: 9449
+        y: 8091
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ef0a9d920862400800000000000000
+      internalID: 299067342499937854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_189
+      rect:
+        serializedVersion: 2
+        x: 9456
+        y: 8091
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a8d72d86a81aee0800000000000000
+      internalID: -1251567038619612618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_190
+      rect:
+        serializedVersion: 2
+        x: 9467
+        y: 8074
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f44dee5607be4f0800000000000000
+      internalID: -798420925827231844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_191
+      rect:
+        serializedVersion: 2
+        x: 9437
+        y: 8050
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efca03e28a5de30b0800000000000000
+      internalID: -5746921156172010242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_192
+      rect:
+        serializedVersion: 2
+        x: 9451
+        y: 8062
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3774c6f85f2582680800000000000000
+      internalID: -8779676258932078733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_193
+      rect:
+        serializedVersion: 2
+        x: 9461
+        y: 8058
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc3906659a8e2d30800000000000000
+      internalID: 4408613459508935926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_194
+      rect:
+        serializedVersion: 2
+        x: 9470
+        y: 8065
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9198d1f83a94c10800000000000000
+      internalID: 2038340141433035183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_195
+      rect:
+        serializedVersion: 2
+        x: 9470
+        y: 8059
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa633b0ae45f18390800000000000000
+      internalID: -7817697760086116694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_196
+      rect:
+        serializedVersion: 2
+        x: 9480
+        y: 8065
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9a858db9d2f91d0800000000000000
+      internalID: -3341902251112748618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_197
+      rect:
+        serializedVersion: 2
+        x: 9469
+        y: 8041
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a724fdeb6ae24bd0800000000000000
+      internalID: -2647295881665828956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_198
+      rect:
+        serializedVersion: 2
+        x: 9475
+        y: 8052
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07dbe64d0eff84580800000000000000
+      internalID: -8842536527240184464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_199
+      rect:
+        serializedVersion: 2
+        x: 9441
+        y: 8027
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50484f7a3da711a60800000000000000
+      internalID: 7643025092098950149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_200
+      rect:
+        serializedVersion: 2
+        x: 9467
+        y: 8035
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283ad1fa50df0f020800000000000000
+      internalID: 2373675204478870402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_201
+      rect:
+        serializedVersion: 2
+        x: 9481
+        y: 8026
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d3a09d0d3981930800000000000000
+      internalID: 4114200784806755664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_202
+      rect:
+        serializedVersion: 2
+        x: 9444
+        y: 7987
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ec3b3e213d58bf0800000000000000
+      internalID: -322619720204038526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_203
+      rect:
+        serializedVersion: 2
+        x: 9451
+        y: 8024
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a89e7ee309866490800000000000000
+      internalID: -7753359058492548957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_204
+      rect:
+        serializedVersion: 2
+        x: 9463
+        y: 8026
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6d5b40005629f70800000000000000
+      internalID: 9192520840170034909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_205
+      rect:
+        serializedVersion: 2
+        x: 9464
+        y: 7984
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61922a193ee35a1d0800000000000000
+      internalID: -3340194401503532778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_206
+      rect:
+        serializedVersion: 2
+        x: 9471
+        y: 7962
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87a1b0e513a8dab0800000000000000
+      internalID: -4983053673326073973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_207
+      rect:
+        serializedVersion: 2
+        x: 9476
+        y: 7953
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c20b8bd0e194da10800000000000000
+      internalID: 1933330534990807748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_208
+      rect:
+        serializedVersion: 2
+        x: 9477
+        y: 7947
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759cbda971f0b2b10800000000000000
+      internalID: 1957675057079372119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_209
+      rect:
+        serializedVersion: 2
+        x: 9469
+        y: 7925
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9849a1445e160a000800000000000000
+      internalID: 45143633591702665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_210
+      rect:
+        serializedVersion: 2
+        x: 9987
+        y: 7494
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf729df49efc06990800000000000000
+      internalID: -7394681987168393220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_211
+      rect:
+        serializedVersion: 2
+        x: 10072
+        y: 7485
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d5c5b73df30c5c0800000000000000
+      internalID: -4197284675169002156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_212
+      rect:
+        serializedVersion: 2
+        x: 10173
+        y: 7495
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1546613bcce6af890800000000000000
+      internalID: -7423499210309868463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_213
+      rect:
+        serializedVersion: 2
+        x: 10305
+        y: 7498
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16873cdf66d670e10800000000000000
+      internalID: 2163818435086350433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_214
+      rect:
+        serializedVersion: 2
+        x: 11960
+        y: 7494
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1360dd6726541f80800000000000000
+      internalID: -8136783899405556961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_215
+      rect:
+        serializedVersion: 2
+        x: 11985
+        y: 7498
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea908fcd91133b8b0800000000000000
+      internalID: -5137708762748417618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_216
+      rect:
+        serializedVersion: 2
+        x: 11986
+        y: 7493
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3012cf385291dbac0800000000000000
+      internalID: -3837883658530971389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_217
+      rect:
+        serializedVersion: 2
+        x: 11995
+        y: 7493
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe404948cba11f650800000000000000
+      internalID: 6264817953629537519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_218
+      rect:
+        serializedVersion: 2
+        x: 12013
+        y: 7492
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad9472d77488a0e0800000000000000
+      internalID: -2258409562959471196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_219
+      rect:
+        serializedVersion: 2
+        x: 12022
+        y: 7486
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451da21c2fdc41330800000000000000
+      internalID: 3680793237975126356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_220
+      rect:
+        serializedVersion: 2
+        x: 12040
+        y: 7484
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa049144ab9ee990800000000000000
+      internalID: -7354770011672278273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_221
+      rect:
+        serializedVersion: 2
+        x: 12052
+        y: 7492
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d10918545ed1f20800000000000000
+      internalID: 3395121780796431629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_222
+      rect:
+        serializedVersion: 2
+        x: 12096
+        y: 7495
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44238e70deabdcee0800000000000000
+      internalID: -1239128795254345148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_223
+      rect:
+        serializedVersion: 2
+        x: 12124
+        y: 7497
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34ddbdb4b552c2d0800000000000000
+      internalID: -3259948945497009094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_224
+      rect:
+        serializedVersion: 2
+        x: 12144
+        y: 7495
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c242c30296ce05b0800000000000000
+      internalID: -5400160572740058431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_225
+      rect:
+        serializedVersion: 2
+        x: 12150
+        y: 7494
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8af435f6ae03520800000000000000
+      internalID: 2679899542145444038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_226
+      rect:
+        serializedVersion: 2
+        x: 12235
+        y: 7491
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05252d33372ea9bc0800000000000000
+      internalID: -3775456353178201520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_227
+      rect:
+        serializedVersion: 2
+        x: 9993
+        y: 7471
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352a6b50e54165fe0800000000000000
+      internalID: -1200749856592321965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_228
+      rect:
+        serializedVersion: 2
+        x: 10011
+        y: 7491
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488956957a1b311c0800000000000000
+      internalID: -4534085067514472316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_229
+      rect:
+        serializedVersion: 2
+        x: 10017
+        y: 7485
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c4c2d1735408e00800000000000000
+      internalID: 1044911216564915207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_230
+      rect:
+        serializedVersion: 2
+        x: 10045
+        y: 7487
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0985b6ce8e92ac70800000000000000
+      internalID: 8980914942986520845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_231
+      rect:
+        serializedVersion: 2
+        x: 10273
+        y: 7484
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0b492df2689f170800000000000000
+      internalID: 8212742935441354926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_232
+      rect:
+        serializedVersion: 2
+        x: 11978
+        y: 7475
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4059ec6e4bc5ad30800000000000000
+      internalID: 4442180145165979723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_233
+      rect:
+        serializedVersion: 2
+        x: 12000
+        y: 7489
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af70d7dfe72bbb5a0800000000000000
+      internalID: -6504408978318096390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_234
+      rect:
+        serializedVersion: 2
+        x: 12131
+        y: 7483
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cd15f7eb9b60c60800000000000000
+      internalID: 7784113233787477127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_235
+      rect:
+        serializedVersion: 2
+        x: 12152
+        y: 7483
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16b49a09a7039f90800000000000000
+      internalID: -6948201377494157795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_236
+      rect:
+        serializedVersion: 2
+        x: 10040
+        y: 7481
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089eeae2fd8c5fdb0800000000000000
+      internalID: -4758676570360583808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_237
+      rect:
+        serializedVersion: 2
+        x: 10132
+        y: 7483
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a4bd9747115eb40800000000000000
+      internalID: 5468796514469628572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_238
+      rect:
+        serializedVersion: 2
+        x: 11999
+        y: 7480
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d379d585dd0fb4ec0800000000000000
+      internalID: -3581504245182130371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_239
+      rect:
+        serializedVersion: 2
+        x: 12112
+        y: 7484
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f34edf409d062910800000000000000
+      internalID: 1812150813529621497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_240
+      rect:
+        serializedVersion: 2
+        x: 10021
+        y: 7476
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893405b9a9de14c00800000000000000
+      internalID: 883248250227803032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_241
+      rect:
+        serializedVersion: 2
+        x: 11999
+        y: 7476
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bdf8956667ef840800000000000000
+      internalID: 5259771596776659845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_NotInked_242
+      rect:
+        serializedVersion: 2
+        x: 12137
+        y: 7473
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb895e77b5407f50800000000000000
+      internalID: 6877073285395876833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wall_NotInked_0: -1162486719118446148
+      Wall_NotInked_1: -7148734039000217943
+      Wall_NotInked_10: -1005067106195054664
+      Wall_NotInked_100: -1252074540066834943
+      Wall_NotInked_101: -4112424421442387837
+      Wall_NotInked_102: 2090697874841025676
+      Wall_NotInked_103: 701903527364512596
+      Wall_NotInked_104: 4544481511437084586
+      Wall_NotInked_105: 5472800008587842520
+      Wall_NotInked_106: 3235991229099279187
+      Wall_NotInked_107: -1475215935797935639
+      Wall_NotInked_108: 7286968529964342134
+      Wall_NotInked_109: -6309076928056969035
+      Wall_NotInked_11: -5690343489945877123
+      Wall_NotInked_110: 6215900860560646631
+      Wall_NotInked_111: 4227646203577069252
+      Wall_NotInked_112: -1848841054863500398
+      Wall_NotInked_113: -6274697843542163620
+      Wall_NotInked_114: -1255944000827911653
+      Wall_NotInked_115: -500694344859225235
+      Wall_NotInked_116: -7788841068895769900
+      Wall_NotInked_117: 5800225028394811109
+      Wall_NotInked_118: -2785018274739828650
+      Wall_NotInked_119: 8022428561621021344
+      Wall_NotInked_12: 4512267487800478900
+      Wall_NotInked_120: 3354287862204830164
+      Wall_NotInked_121: -4889790866815742247
+      Wall_NotInked_122: 5721502831853176318
+      Wall_NotInked_123: -695229692682370716
+      Wall_NotInked_124: 4452073219160615139
+      Wall_NotInked_125: -5630015466605237973
+      Wall_NotInked_126: -1306182919650485418
+      Wall_NotInked_127: -7401561128470199298
+      Wall_NotInked_128: 2921884060054564321
+      Wall_NotInked_129: 7342001304557471343
+      Wall_NotInked_13: -5063019919320075
+      Wall_NotInked_130: -5468113154117124959
+      Wall_NotInked_131: -7862605991135001403
+      Wall_NotInked_132: -1613125311346476371
+      Wall_NotInked_133: -6423616298171790027
+      Wall_NotInked_134: -5921702264920709409
+      Wall_NotInked_135: 7033846512949835009
+      Wall_NotInked_136: 6936537112633372055
+      Wall_NotInked_137: 7992187772384673535
+      Wall_NotInked_138: -3806531638233112970
+      Wall_NotInked_139: -3007189885205719081
+      Wall_NotInked_14: 4550128612854822672
+      Wall_NotInked_140: -2329259640755819329
+      Wall_NotInked_141: 7687167499116809792
+      Wall_NotInked_142: 3704631780189780536
+      Wall_NotInked_143: 6838140447913496619
+      Wall_NotInked_144: -7078865354857900177
+      Wall_NotInked_145: 4802035455522449773
+      Wall_NotInked_146: -8014306031626121230
+      Wall_NotInked_147: -7192291105821450766
+      Wall_NotInked_148: 3160193167241673965
+      Wall_NotInked_149: 2632052383249339727
+      Wall_NotInked_15: 8344750748231264864
+      Wall_NotInked_150: -3975241444678985064
+      Wall_NotInked_151: -3523338071080116768
+      Wall_NotInked_152: 956261511323586582
+      Wall_NotInked_153: -2848734481910827963
+      Wall_NotInked_154: -2855830108890718535
+      Wall_NotInked_155: -1630132592021370675
+      Wall_NotInked_156: 2183046310062754441
+      Wall_NotInked_157: 7064264432563031945
+      Wall_NotInked_158: -8937775761882071522
+      Wall_NotInked_159: -655515114920700871
+      Wall_NotInked_16: 6761795572965590931
+      Wall_NotInked_160: 8735733367920495720
+      Wall_NotInked_161: 3391509164683716489
+      Wall_NotInked_162: 6363377492180483842
+      Wall_NotInked_163: -3283319353508821693
+      Wall_NotInked_164: 995257765836332486
+      Wall_NotInked_165: 3393865588137810904
+      Wall_NotInked_166: 7686910348515764067
+      Wall_NotInked_167: 7473330148041825031
+      Wall_NotInked_168: 5199321145542008797
+      Wall_NotInked_169: 42040894374177675
+      Wall_NotInked_17: -7598533905202727541
+      Wall_NotInked_170: -4901406850708575945
+      Wall_NotInked_171: 5056672667672198001
+      Wall_NotInked_172: 6755593026984737534
+      Wall_NotInked_173: 4618329535465121159
+      Wall_NotInked_174: 5503468628690358364
+      Wall_NotInked_175: 8155403883768453764
+      Wall_NotInked_176: -7694669885283701243
+      Wall_NotInked_177: 3571792750394200041
+      Wall_NotInked_178: 3944419208175428478
+      Wall_NotInked_179: 963582765915479186
+      Wall_NotInked_18: 861935517456854403
+      Wall_NotInked_180: -3907232179397677812
+      Wall_NotInked_181: 1260763879379732255
+      Wall_NotInked_182: 7971156131694080477
+      Wall_NotInked_183: 4553425323800440312
+      Wall_NotInked_184: -3268623564292032507
+      Wall_NotInked_185: -8999551278004922997
+      Wall_NotInked_186: -3959117716258635570
+      Wall_NotInked_187: -7318591292751804371
+      Wall_NotInked_188: 299067342499937854
+      Wall_NotInked_189: -1251567038619612618
+      Wall_NotInked_19: 9090475990186207384
+      Wall_NotInked_190: -798420925827231844
+      Wall_NotInked_191: -5746921156172010242
+      Wall_NotInked_192: -8779676258932078733
+      Wall_NotInked_193: 4408613459508935926
+      Wall_NotInked_194: 2038340141433035183
+      Wall_NotInked_195: -7817697760086116694
+      Wall_NotInked_196: -3341902251112748618
+      Wall_NotInked_197: -2647295881665828956
+      Wall_NotInked_198: -8842536527240184464
+      Wall_NotInked_199: 7643025092098950149
+      Wall_NotInked_2: -1661588653790687079
+      Wall_NotInked_20: 129250161952799561
+      Wall_NotInked_200: 2373675204478870402
+      Wall_NotInked_201: 4114200784806755664
+      Wall_NotInked_202: -322619720204038526
+      Wall_NotInked_203: -7753359058492548957
+      Wall_NotInked_204: 9192520840170034909
+      Wall_NotInked_205: -3340194401503532778
+      Wall_NotInked_206: -4983053673326073973
+      Wall_NotInked_207: 1933330534990807748
+      Wall_NotInked_208: 1957675057079372119
+      Wall_NotInked_209: 45143633591702665
+      Wall_NotInked_21: 2886111550351369108
+      Wall_NotInked_210: -7394681987168393220
+      Wall_NotInked_211: -4197284675169002156
+      Wall_NotInked_212: -7423499210309868463
+      Wall_NotInked_213: 2163818435086350433
+      Wall_NotInked_214: -8136783899405556961
+      Wall_NotInked_215: -5137708762748417618
+      Wall_NotInked_216: -3837883658530971389
+      Wall_NotInked_217: 6264817953629537519
+      Wall_NotInked_218: -2258409562959471196
+      Wall_NotInked_219: 3680793237975126356
+      Wall_NotInked_22: -7206851278211465132
+      Wall_NotInked_220: -7354770011672278273
+      Wall_NotInked_221: 3395121780796431629
+      Wall_NotInked_222: -1239128795254345148
+      Wall_NotInked_223: -3259948945497009094
+      Wall_NotInked_224: -5400160572740058431
+      Wall_NotInked_225: 2679899542145444038
+      Wall_NotInked_226: -3775456353178201520
+      Wall_NotInked_227: -1200749856592321965
+      Wall_NotInked_228: -4534085067514472316
+      Wall_NotInked_229: 1044911216564915207
+      Wall_NotInked_23: -2281640671732465131
+      Wall_NotInked_230: 8980914942986520845
+      Wall_NotInked_231: 8212742935441354926
+      Wall_NotInked_232: 4442180145165979723
+      Wall_NotInked_233: -6504408978318096390
+      Wall_NotInked_234: 7784113233787477127
+      Wall_NotInked_235: -6948201377494157795
+      Wall_NotInked_236: -4758676570360583808
+      Wall_NotInked_237: 5468796514469628572
+      Wall_NotInked_238: -3581504245182130371
+      Wall_NotInked_239: 1812150813529621497
+      Wall_NotInked_24: -2865539538766737474
+      Wall_NotInked_240: 883248250227803032
+      Wall_NotInked_241: 5259771596776659845
+      Wall_NotInked_242: 6877073285395876833
+      Wall_NotInked_25: -4703296519760801150
+      Wall_NotInked_26: 7095327027943489339
+      Wall_NotInked_27: 4020524107876992327
+      Wall_NotInked_28: 2260485995238605314
+      Wall_NotInked_29: -2823823553919840832
+      Wall_NotInked_3: 8018806442175020396
+      Wall_NotInked_30: -3779369110279455145
+      Wall_NotInked_31: -5392429064349429063
+      Wall_NotInked_32: 8364631508737300488
+      Wall_NotInked_33: 2158794080996164444
+      Wall_NotInked_34: -2084553729892891844
+      Wall_NotInked_35: 4501966050735692973
+      Wall_NotInked_36: 1036493076871599866
+      Wall_NotInked_37: -945820993989305572
+      Wall_NotInked_38: 5771378131936378841
+      Wall_NotInked_39: -2209499160274007210
+      Wall_NotInked_4: 3489703636496825976
+      Wall_NotInked_40: 8726088326880515979
+      Wall_NotInked_41: 5213895963842738643
+      Wall_NotInked_42: 4317955537219625782
+      Wall_NotInked_43: -1566886172094290274
+      Wall_NotInked_44: -424778367173608528
+      Wall_NotInked_45: -9122012255818306209
+      Wall_NotInked_46: 4380168536149523
+      Wall_NotInked_47: 6008751576856404839
+      Wall_NotInked_48: 4506259272241868932
+      Wall_NotInked_49: -5239860545140765772
+      Wall_NotInked_5: 7721034198225301537
+      Wall_NotInked_50: -1159612613867117396
+      Wall_NotInked_51: 3977980433291762005
+      Wall_NotInked_52: -9169359634306393027
+      Wall_NotInked_53: 326864393987017695
+      Wall_NotInked_54: -4408370947377533201
+      Wall_NotInked_55: 3841399932872851390
+      Wall_NotInked_56: 9003278890047126725
+      Wall_NotInked_57: -4335004644142484800
+      Wall_NotInked_58: -3063136468372986846
+      Wall_NotInked_59: -1146417713624940369
+      Wall_NotInked_6: 762126458582952257
+      Wall_NotInked_60: 3313197743146726939
+      Wall_NotInked_61: -2707911429620754389
+      Wall_NotInked_62: 7729166828199736424
+      Wall_NotInked_63: -562397396294824909
+      Wall_NotInked_64: 1608555909758899465
+      Wall_NotInked_65: 3231609355613350713
+      Wall_NotInked_66: 2195597673337558400
+      Wall_NotInked_67: -8465851320869608876
+      Wall_NotInked_68: 6044311747548854135
+      Wall_NotInked_69: -9110234825916207194
+      Wall_NotInked_7: -8608233962706413661
+      Wall_NotInked_70: 7834589502039807757
+      Wall_NotInked_71: -4594792092874801248
+      Wall_NotInked_72: -1137980392358739291
+      Wall_NotInked_73: -3011060257787294789
+      Wall_NotInked_74: 761341905779280755
+      Wall_NotInked_75: 8771640215117432957
+      Wall_NotInked_76: -215998906252551107
+      Wall_NotInked_77: -3490747938787197802
+      Wall_NotInked_78: -6605935593684446917
+      Wall_NotInked_79: 3118476163698863483
+      Wall_NotInked_8: 7949805101801135736
+      Wall_NotInked_80: -3478218362533477500
+      Wall_NotInked_81: -7724301433104035946
+      Wall_NotInked_82: -7633759723519742047
+      Wall_NotInked_83: -6100881813905654696
+      Wall_NotInked_84: -8925409444100301658
+      Wall_NotInked_85: 3875830757076630739
+      Wall_NotInked_86: -7574075345452756933
+      Wall_NotInked_87: -6270382436508577141
+      Wall_NotInked_88: 8133436508331005762
+      Wall_NotInked_89: 7409245595463806105
+      Wall_NotInked_9: 8898832062054255878
+      Wall_NotInked_90: -886255680732523798
+      Wall_NotInked_91: -4519711241827645699
+      Wall_NotInked_92: -2642399771611131979
+      Wall_NotInked_93: 7658208119213560778
+      Wall_NotInked_94: 3606415266336909154
+      Wall_NotInked_95: 6844062118323375888
+      Wall_NotInked_96: -5034560817823442079
+      Wall_NotInked_97: -3045942413676435872
+      Wall_NotInked_98: -5385064337405679781
+      Wall_NotInked_99: -7021329213564444607
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
