@@ -21,7 +21,6 @@ MonoBehaviour:
     - goDatasByGlobalId:
         keys:
         - GlobalObjectId_V1-2-1d532a82846208740af23f4bd09805bb-871881913-0
-        - GlobalObjectId_V1-2-1d532a82846208740af23f4bd09805bb-3986202553696381928-1347813705
         - GlobalObjectId_V1-2-1d532a82846208740af23f4bd09805bb-89027904-0
         - GlobalObjectId_V1-2-1d532a82846208740af23f4bd09805bb-93251222-0
         - GlobalObjectId_V1-2-1d532a82846208740af23f4bd09805bb-1449354976-0
@@ -35,11 +34,10 @@ MonoBehaviour:
         - GlobalObjectId_V1-2-1d532a82846208740af23f4bd09805bb-1996920672-0
         - GlobalObjectId_V1-2-1d532a82846208740af23f4bd09805bb-735820315-0
         - GlobalObjectId_V1-2-1d532a82846208740af23f4bd09805bb-1704349109-0
+        - GlobalObjectId_V1-2-1d532a82846208740af23f4bd09805bb-1539239254-0
         values:
         - iColor: 1
           icon: Folder Icon
-        - iColor: 8
-          icon: AvatarMask On Icon
         - iColor: 9
           icon: Light Icon
         - iColor: 1
@@ -66,8 +64,10 @@ MonoBehaviour:
           icon: Favorite
         - iColor: 2
           icon: Canvas Icon
+        - iColor: 8
+          icon: Favorite
       goDatasByInstanceId:
-        keys: b2edffffaaf9ffff3ae7ffff90edffffd8edfffff0eeffff34cd00009ae8ffff46e8fffff8e7ffffb2e7ffff78e7fffff6e6ffffb8e6ffff5acd0000c8860100b05bffffac860100b0860100fe8601001e870100d2860100ec860100f0860100dc86010022870100b48601001a870100c486010008870100
+        keys: 10b80000a2f7fffff4b70000f8b7000046b8000066b800001ab8000034b8000038b8000024b800006ab80000fcb7000062b800000cb8000050b800007cf7feff5e0dffff
         values:
         - iColor: 1
           icon: Folder Icon
@@ -99,36 +99,10 @@ MonoBehaviour:
           icon: Favorite
         - iColor: 2
           icon: Canvas Icon
-        - iColor: 1
-          icon: Folder Icon
-        - iColor: 8
-          icon: AvatarMask On Icon
-        - iColor: 9
-          icon: Light Icon
-        - iColor: 1
-          icon: Folder Icon
-        - iColor: 1
-          icon: Folder Icon
-        - iColor: 1
-          icon: Folder Icon
-        - iColor: 4
-          icon: Camera Icon
-        - iColor: 3
-          icon: MeshCollider Icon
-        - iColor: 4
-          icon: Terrain Icon
-        - iColor: 5
-          icon: Material Icon
-        - iColor: 6
-          icon: StandaloneInputModule Icon
-        - iColor: 9
-          icon: ParticleSystem Icon
-        - iColor: 8
-          icon: AvatarMask On Icon
+        - iColor: 0
+          icon: 
         - iColor: 8
           icon: Favorite
-        - iColor: 2
-          icon: Canvas Icon
     - goDatasByGlobalId:
         keys: []
         values: []
@@ -158,9 +132,9 @@ MonoBehaviour:
         - iColor: 0
           icon: 
         - iColor: 0
-          icon: 
+          icon: Terrain Icon
       goDatasByInstanceId:
-        keys: ea57ffffcc57ffffca57ffff50870100e457ffffd457ffffc857ffff
+        keys: 6cb40000b0b4000088b400008cb40000b4b400007ab40000aab40000
         values:
         - iColor: 1
           icon: Folder Icon
@@ -175,4 +149,4 @@ MonoBehaviour:
         - iColor: 0
           icon: 
         - iColor: 0
-          icon: 
+          icon: Terrain Icon
